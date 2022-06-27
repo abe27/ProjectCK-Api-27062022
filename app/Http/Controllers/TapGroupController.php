@@ -2,10 +2,10 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\FactoryModel;
+use App\Models\TapGroup;
 use Illuminate\Http\Request;
 
-class FactoryModelController extends Controller
+class TapGroupController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -41,10 +41,10 @@ class FactoryModelController extends Controller
     /**
      * Display the specified resource.
      *
-     * @param  \App\Models\FactoryModel  $factoryModel
+     * @param  \App\Models\TapGroup  $tapGroup
      * @return \Illuminate\Http\Response
      */
-    public function show(FactoryModel $factoryModel)
+    public function show(TapGroup $tapGroup)
     {
         //
     }
@@ -52,10 +52,10 @@ class FactoryModelController extends Controller
     /**
      * Show the form for editing the specified resource.
      *
-     * @param  \App\Models\FactoryModel  $factoryModel
+     * @param  \App\Models\TapGroup  $tapGroup
      * @return \Illuminate\Http\Response
      */
-    public function edit(FactoryModel $factoryModel)
+    public function edit(TapGroup $tapGroup)
     {
         //
     }
@@ -64,10 +64,10 @@ class FactoryModelController extends Controller
      * Update the specified resource in storage.
      *
      * @param  \Illuminate\Http\Request  $request
-     * @param  \App\Models\FactoryModel  $factoryModel
+     * @param  \App\Models\TapGroup  $tapGroup
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, FactoryModel $factoryModel)
+    public function update(Request $request, TapGroup $tapGroup)
     {
         //
     }
@@ -75,10 +75,10 @@ class FactoryModelController extends Controller
     /**
      * Remove the specified resource from storage.
      *
-     * @param  \App\Models\FactoryModel  $factoryModel
+     * @param  \App\Models\TapGroup  $tapGroup
      * @return \Illuminate\Http\Response
      */
-    public function destroy(FactoryModel $factoryModel)
+    public function destroy(TapGroup $tapGroup)
     {
         //
     }

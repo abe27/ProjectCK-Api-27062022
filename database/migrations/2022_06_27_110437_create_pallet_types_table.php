@@ -13,8 +13,11 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('factory_models', function (Blueprint $table) {
-            $table->id();
+        Schema::create('pallet_types', function (Blueprint $table) {
+            $table->char('id', 36)->primary();
+            $table->string('name')->unique();
+            $table->longText('description')->nullable()->default('-');
+            $table->boolean('is_active')->nullable()->default(false);
             $table->timestamps();
         });
     }
@@ -26,6 +29,6 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('factory_models');
+        Schema::dropIfExists('pallet_types');
     }
 };
