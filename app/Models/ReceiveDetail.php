@@ -8,24 +8,17 @@ use Illuminate\Database\Eloquent\Model;
 use Illuminate\Notifications\Notifiable;
 use Laravel\Sanctum\HasApiTokens;
 
-class Ledgers extends Model
+class ReceiveDetail extends Model
 {
     use HasFactory, Nanoids, Notifiable, HasApiTokens;
 
     protected $fillable = [
-        'tap_group_id',
-        'whs_id',
-        'factory_id',
-        'part_type_id',
-        'part_id',
-        'kind_id',
-        'size_id',
-        'color_id',
-        'unit_id',
-        'width',
-        'length',
-        'gross_weight',
-        'net_weight',
-        'is_active'
+        'receive_id',
+        'ledger_id',
+        'plan_qty',
+        'plan_ctn',
+        'receive_plan_ctn',
+        'is_completed',
+        'is_active',
     ];
 }

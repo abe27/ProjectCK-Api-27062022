@@ -8,24 +8,22 @@ use Illuminate\Database\Eloquent\Model;
 use Illuminate\Notifications\Notifiable;
 use Laravel\Sanctum\HasApiTokens;
 
-class Ledgers extends Model
+class FileGedi extends Model
 {
     use HasFactory, Nanoids, Notifiable, HasApiTokens;
 
     protected $fillable = [
-        'tap_group_id',
-        'whs_id',
-        'factory_id',
-        'part_type_id',
-        'part_id',
-        'kind_id',
-        'size_id',
-        'color_id',
-        'unit_id',
-        'width',
-        'length',
-        'gross_weight',
-        'net_weight',
-        'is_active'
+        'mailbox_id',
+        'batch_id',
+        'file_size',
+        'file_name',
+        'file_path',
+        'file_uploaded',
+        'flag',
+        'format',
+        'originator',
+        'is_downloaded',
+        'is_active',
+        'file_link',
     ];
 }
