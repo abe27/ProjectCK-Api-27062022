@@ -16,7 +16,7 @@ return new class extends Migration
         Schema::create('ledgers', function (Blueprint $table) {
             $table->char('id', 36)->primary();
             $table->char('tap_group_id', 36)->nullable();
-            $table->char('whs_id', 36);
+            $table->char('whs_id', 36)->nullable();
             $table->char('factory_id', 36)->nullable();
             $table->char('part_type_id', 36)->nullable();
             $table->char('part_id', 36);

@@ -19,7 +19,7 @@ return new class extends Migration
             $table->char('factory_id', 36)->nullable();
             $table->char('affiliates_id', 36)->nullable();
             $table->char('customer_id', 36);
-            $table->char('customer_address_id', 36);
+            $table->char('customer_address_id', 36)->nullable();
             $table->string('prefix', 5)->nullable()->default('-');
             $table->integer('last_running_no')->nullable()->default(0);
             $table->boolean('is_active')->nullable()->default(false);
