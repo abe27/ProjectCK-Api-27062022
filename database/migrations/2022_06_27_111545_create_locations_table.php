@@ -17,6 +17,7 @@ return new class extends Migration
             $table->char('id', 36)->primary();
             $table->string('name')->unique();
             $table->longText('description')->nullable()->default('-');
+            $table->boolean('is_printed')->nullable()->default(false);
             $table->boolean('is_active')->nullable()->default(false);
             $table->timestamps();
         });

@@ -8,14 +8,21 @@ use Illuminate\Database\Eloquent\Model;
 use Illuminate\Notifications\Notifiable;
 use Laravel\Sanctum\HasApiTokens;
 
-class Location extends Model
+class Order extends Model
 {
     use HasFactory, Nanoids, Notifiable, HasApiTokens;
 
     protected $fillable = [
-        'name',
-        'description',
-        'is_printed',
+        'order_zone_type_id',
+        'corrective_id',
+        'commercial_id',
+        'consignee_id',
+        'shipping_id',
+        'order_type_id',
+        'etd_date',
+        'order_group',
+        'is_matched',
+        'is_checked',
         'is_active',
     ];
 }
