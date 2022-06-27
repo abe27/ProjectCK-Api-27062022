@@ -1,0 +1,18 @@
+[
+    {
+        "name": "C",
+        "description": "TAP-C"
+    },
+    {
+        "name": "B",
+        "description": "TAP-B"
+    },
+    {
+        "name": "O",
+        "description": "TAP-O"
+    },
+    {
+        "name": "P",
+        "description": "TAP-P"
+    }
+]

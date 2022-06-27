@@ -1,0 +1,12 @@
+[
+    {
+        "name": "INJ",
+        "prefix": "TI",
+        "description": "INJECTION"
+    },
+    {
+        "name": "AW",
+        "prefix": "TW",
+        "description": "WIRE"
+    }
+]
