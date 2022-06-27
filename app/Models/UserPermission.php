@@ -8,14 +8,14 @@ use Illuminate\Database\Eloquent\Model;
 use Illuminate\Notifications\Notifiable;
 use Laravel\Sanctum\HasApiTokens;
 
-class District extends Model
+class UserPermission extends Model
 {
     use HasFactory, Nanoids, Notifiable, HasApiTokens;
 
     protected $fillable = [
-        'province_id',
         'name',
         'description',
+        'is_administrator',
         'is_active',
     ];
 }

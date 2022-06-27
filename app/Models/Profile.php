@@ -8,13 +8,27 @@ use Illuminate\Database\Eloquent\Model;
 use Illuminate\Notifications\Notifiable;
 use Laravel\Sanctum\HasApiTokens;
 
-class District extends Model
+class Profile extends Model
 {
     use HasFactory, Nanoids, Notifiable, HasApiTokens;
 
     protected $fillable = [
-        'province_id',
-        'name',
+        'user_id',
+        'whs_id',
+        'factory_id',
+        'section_id',
+        'position_id',
+        'permission_id',
+        'district_id',
+        'company_id',
+        'full_name',
+        'address_1',
+        'address_2',
+        'zip_code',
+        'exp_no',
+        'mobile_no',
+        'fax_no',
+        'avatar_url',
         'description',
         'is_active',
     ];
