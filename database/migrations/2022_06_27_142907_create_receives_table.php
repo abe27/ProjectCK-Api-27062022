@@ -15,6 +15,8 @@ return new class extends Migration
     {
         Schema::create('receives', function (Blueprint $table) {
             $table->char('id', 36)->primary();
+            $table->char('file_gedi_id', 36)->nullable();
+            $table->char('whs_id', 36)->nullable();
             $table->char('factory_id', 36)->nullable();
             $table->date('transfer_date');
             $table->string('transfer_no')->unique();
@@ -23,6 +25,8 @@ return new class extends Migration
             $table->boolean('is_sync')->nullable()->default(true);
             $table->boolean('is_active')->nullable()->default(false);
             $table->timestamps();
+            $table->foreign('file_gedi_id')->references('id')->on('file_gedis')->nullOnDelete();
+            $table->foreign('whs_id')->references('id')->on('whs')->nullOnDelete();
             $table->foreign('factory_id')->references('id')->on('factories')->nullOnDelete();
         });
     }

@@ -13,6 +13,8 @@ class Receive extends Model
     use HasFactory, Nanoids, HasApiTokens, Notifiable;
 
     protected $fillable = [
+        'file_gedi_id',
+        'whs_id',
         'factory_id',
         'transfer_date',
         'transfer_no',
