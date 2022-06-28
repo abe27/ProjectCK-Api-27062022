@@ -1,0 +1,22 @@
+[
+    {
+        "name": "-",
+        "description": "-"
+    },
+    {
+        "name": "PART",
+        "description": "ชิ้นส่วน"
+    },
+    {
+        "name": "WIRE",
+        "description": "สายไฟ"
+    },
+    {
+        "name": "PLATE",
+        "description": "จาน,แผ่น"
+    },
+    {
+        "name": "SILICONE",
+        "description": "Silicone"
+    }
+]

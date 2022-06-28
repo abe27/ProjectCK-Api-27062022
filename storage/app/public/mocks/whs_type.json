@@ -1,41 +1,46 @@
 [
     {
-        "name": "Private Warehouse",
+        "name": "-",
+        "description": "-",
+        "prefix_code": "-"
+    },
+    {
+        "name": "PRIVATE",
         "description": "โกดังสินค้าแบบส่วนตัว",
         "prefix_code": "Private"
     },
     {
-        "name": "Public Warehouse",
+        "name": "PUBLIC",
         "description": "โกดังสินค้าแบบสาธารณะ",
         "prefix_code": "Public"
     },
     {
-        "name": "Bonded Warehouse",
+        "name": "BONDED",
         "description": "คลังสินค้าทัณฑ์บน",
         "prefix_code": "Bonded"
     },
     {
-        "name": "Domestic Warehouse",
+        "name": "DOMESTIC",
         "description": "คลังสินค้าภายในประเทศ",
         "prefix_code": "Domestic"
     },
     {
-        "name": "Exports Warehouse",
+        "name": "EXPORT",
         "description": "คลังสินค้าส่งออก",
         "prefix_code": "Exports"
     },
     {
-        "name": "Distribution Warehouse",
+        "name": "DISTRIBUTION",
         "description": "ศูนย์กระจายสินค้า",
         "prefix_code": "Distribution"
     },
     {
-        "name": "Climate-controlled Warehouse",
+        "name": "CLIMATE",
         "description": "โกดังที่มีการควบคุมอุณหภูมิ",
         "prefix_code": "Climate-controlled"
     },
     {
-        "name": "Fulfillment Center",
+        "name": "FULFILLMENT",
         "description": "คลังสินค้าแบบบริหารจัดการ",
         "prefix_code": "Fulfillment"
     }

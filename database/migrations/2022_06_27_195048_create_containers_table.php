@@ -16,6 +16,7 @@ return new class extends Migration
         Schema::create('containers', function (Blueprint $table) {
             $table->char('id', 36)->primary();
             $table->char('container_type_id', 36)->nullable();
+            $table->char('container_size_id', 36)->nullable();
             $table->date('container_date');
             $table->string('container_no', 50);
             $table->string('seal_no',50);
@@ -27,6 +28,7 @@ return new class extends Migration
             $table->boolean('is_active')->nullable()->default(false);
             $table->timestamps();
             $table->foreign('container_type_id')->references('id')->on('container_types')->nullOnDelete();
+            $table->foreign('container_size_id')->references('id')->on('container_sizes')->nullOnDelete();
         });
     }
 

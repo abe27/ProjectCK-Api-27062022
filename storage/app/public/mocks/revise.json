@@ -1,0 +1,11 @@
+[
+    { "name": "0", "description": "เพิ่มข้อมูลใหม่", "revise": false },
+    { "name": "1", "description": "-", "revise": true },
+    { "name": "2", "description": "-", "revise": true },
+    { "name": "3", "description": "-", "revise": true },
+    { "name": "D", "description": "เปลี่ยน ETD", "revise": true },
+    { "name": "M", "description": "เพิ่มข้อมูลใหม่", "revise": false },
+    { "name": "P", "description": "เปลี่ยนที่ส่ง", "revise": true },
+    { "name": "Q", "description": "เปลี่ยนจำนวน", "revise": true },
+    { "name": "S", "description": "เปลี่ยน Shipment", "revise": true }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "-",
+        "description": "-",
+        "is_active": true
+    },
+    {
+        "name": "FCL",
+        "description": "Full Container Load",
+        "is_active": true
+    },
+    {
+        "name": "LCL",
+        "description": "Less than Container Load",
+        "is_active": true
+    },
+    {
+        "name": "MIX",
+        "description": "Mix Load",
+        "is_active": true
+    }
+]

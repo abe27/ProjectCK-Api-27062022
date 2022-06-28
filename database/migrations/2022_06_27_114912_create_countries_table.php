@@ -15,10 +15,12 @@ return new class extends Migration
     {
         Schema::create('countries', function (Blueprint $table) {
             $table->char('id', 36)->primary();
+            $table->char('region_id', 36)->nullable();
             $table->string('name')->unique();
             $table->longText('description')->nullable()->default('-');
             $table->boolean('is_active')->nullable()->default(false);
             $table->timestamps();
+            $table->foreign('region_id')->references('id')->on('regions')->nullOnDelete();
         });
     }
 

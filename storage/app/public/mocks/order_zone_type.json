@@ -1,0 +1,27 @@
+[
+    {
+        "bioat": 1,
+        "factory": "AW",
+        "zone": "EXPORT"
+    },
+    {
+        "bioat": 1,
+        "factory": "INJ",
+        "zone": "DOMESTIC"
+    },
+    {
+        "bioat": 2,
+        "factory": "INJ",
+        "zone": "NESC"
+    },
+    {
+        "bioat": 3,
+        "factory": "INJ",
+        "zone": "ICAM"
+    },
+    {
+        "bioat": 4,
+        "factory": "INJ",
+        "zone": "EXPORT"
+    }
+]

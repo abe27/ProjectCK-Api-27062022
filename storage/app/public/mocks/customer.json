@@ -1,0 +1,706 @@
+[
+    {
+        "cust_code": "1200",
+        "cust_name": "YC"
+    },
+    {
+        "cust_code": "32337",
+        "cust_name": "ERROR."
+    },
+    {
+        "cust_code": "32A4",
+        "cust_name": "YES"
+    },
+    {
+        "cust_code": "32A7",
+        "cust_name": "ZZY"
+    },
+    {
+        "cust_code": "32A8",
+        "cust_name": "AAPL"
+    },
+    {
+        "cust_code": "32AF",
+        "cust_name": "YHVTB"
+    },
+    {
+        "cust_code": "32AG",
+        "cust_name": "XGY"
+    },
+    {
+        "cust_code": "32B1",
+        "cust_name": "ARNE-M"
+    },
+    {
+        "cust_code": "32B6",
+        "cust_name": "ARNE-M"
+    },
+    {
+        "cust_code": "32B7",
+        "cust_name": "ARNE-M"
+    },
+    {
+        "cust_code": "32B8",
+        "cust_name": "AXA-M"
+    },
+    {
+        "cust_code": "32BF",
+        "cust_name": "TJYCD"
+    },
+    {
+        "cust_code": "32BG",
+        "cust_name": "YYA"
+    },
+    {
+        "cust_code": "32BOND",
+        "cust_name": "ERROR."
+    },
+    {
+        "cust_code": "32C8",
+        "cust_name": "YNA"
+    },
+    {
+        "cust_code": "32CA",
+        "cust_name": "YPY"
+    },
+    {
+        "cust_code": "32CC",
+        "cust_name": "YABCBU"
+    },
+    {
+        "cust_code": "32CG",
+        "cust_name": "ASIACO"
+    },
+    {
+        "cust_code": "32CH",
+        "cust_name": "SAMIJF"
+    },
+    {
+        "cust_code": "32CJ",
+        "cust_name": "YHVQN"
+    },
+    {
+        "cust_code": "32D1",
+        "cust_name": "YOT-K"
+    },
+    {
+        "cust_code": "32D2",
+        "cust_name": "YOT-G"
+    },
+    {
+        "cust_code": "32D4",
+        "cust_name": "YRL"
+    },
+    {
+        "cust_code": "32D9",
+        "cust_name": "HESTO"
+    },
+    {
+        "cust_code": "32DA",
+        "cust_name": "YIPLGB"
+    },
+    {
+        "cust_code": "32DE",
+        "cust_name": "YEV-TV"
+    },
+    {
+        "cust_code": "32DG",
+        "cust_name": "SAIBF"
+    },
+    {
+        "cust_code": "32DJ",
+        "cust_name": "YIPLRB"
+    },
+    {
+        "cust_code": "32E1",
+        "cust_name": "YSE"
+    },
+    {
+        "cust_code": "32E2",
+        "cust_name": "YSE"
+    },
+    {
+        "cust_code": "32EJ",
+        "cust_name": "YKBO"
+    },
+    {
+        "cust_code": "32G0",
+        "cust_name": "TJY"
+    },
+    {
+        "cust_code": "32G2",
+        "cust_name": "SUAI"
+    },
+    {
+        "cust_code": "32G7",
+        "cust_name": "JAI"
+    },
+    {
+        "cust_code": "32G8",
+        "cust_name": "PASI"
+    },
+    {
+        "cust_code": "32G9",
+        "cust_name": "TYC"
+    },
+    {
+        "cust_code": "32H0",
+        "cust_name": "TJY"
+    },
+    {
+        "cust_code": "32H2",
+        "cust_name": "YHV"
+    },
+    {
+        "cust_code": "32H7",
+        "cust_name": "FSY"
+    },
+    {
+        "cust_code": "32H8",
+        "cust_name": "TYC"
+    },
+    {
+        "cust_code": "32J1",
+        "cust_name": "YEL-BL"
+    },
+    {
+        "cust_code": "32K8",
+        "cust_name": "ELCOM"
+    },
+    {
+        "cust_code": "32M1",
+        "cust_name": "YEV"
+    },
+    {
+        "cust_code": "32M3",
+        "cust_name": "SAMI"
+    },
+    {
+        "cust_code": "32M4",
+        "cust_name": "SAI"
+    },
+    {
+        "cust_code": "32M8",
+        "cust_name": "PEMI"
+    },
+    {
+        "cust_code": "32N1",
+        "cust_name": "YIPL"
+    },
+    {
+        "cust_code": "32N2",
+        "cust_name": "YIPLTC"
+    },
+    {
+        "cust_code": "32N3",
+        "cust_name": "YIPL-B"
+    },
+    {
+        "cust_code": "32P8",
+        "cust_name": "YTM"
+    },
+    {
+        "cust_code": "32PA",
+        "cust_name": "YPY"
+    },
+    {
+        "cust_code": "32Q8",
+        "cust_name": "EMI"
+    },
+    {
+        "cust_code": "32R1",
+        "cust_name": "YYA"
+    },
+    {
+        "cust_code": "32R4",
+        "cust_name": "HZYME"
+    },
+    {
+        "cust_code": "32R7",
+        "cust_name": "YCIC"
+    },
+    {
+        "cust_code": "32R8",
+        "cust_name": "TJY"
+    },
+    {
+        "cust_code": "32R9",
+        "cust_name": "SHY"
+    },
+    {
+        "cust_code": "32U3",
+        "cust_name": "YNA-E"
+    },
+    {
+        "cust_code": "32U5",
+        "cust_name": "AMSD"
+    },
+    {
+        "cust_code": "32U9",
+        "cust_name": "YNA-E"
+    },
+    {
+        "cust_code": "32W2",
+        "cust_name": "HNY"
+    },
+    {
+        "cust_code": "32W4",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W41",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W414",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W416",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W417",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W418",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W419",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W42",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W420",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W421",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W422",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W423",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W424",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W425",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W426",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W428",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W43",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W430",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W432",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W433",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W434",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W437",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W44",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W442",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W446",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W448",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W449",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W45",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W451",
+        "cust_name": "32W9"
+    },
+    {
+        "cust_code": "32W452",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W455",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W456",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W458",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W459",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W46",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W460",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W462",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W463",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W465",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W466",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W467",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W468",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W473",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W475",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W476",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W48",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W480",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W481",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W483",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W49",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W496",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W4A2",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4A6",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4B7",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4B9",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W4C8",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4D3",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4D4",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4E3",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4F3",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4G3",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4G5",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4G7",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4G9",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4H3",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4J2",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4J8",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4J9",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4K6",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4K8",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4K9",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4L1",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4L3",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4L6",
+        "cust_name": "YHK-K"
+    },
+    {
+        "cust_code": "32W4L7",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4L8",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4L9",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4M2",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4M4",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4M5",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4M6",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4M7",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4M9",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4N2",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4N4",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4N6",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4N7",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4N8",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4O1",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4O2",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4O3",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4O6",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4O7",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4O8",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W4P6",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W4P7",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W4P8",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W6",
+        "cust_name": "SYA-WJ"
+    },
+    {
+        "cust_code": "32W7",
+        "cust_name": "SYA-CH"
+    },
+    {
+        "cust_code": "32W8",
+        "cust_name": "SYA"
+    },
+    {
+        "cust_code": "32W9",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W910",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W915",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W917",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W922",
+        "cust_name": "YHK-J"
+    },
+    {
+        "cust_code": "32W93",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W94",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32W95",
+        "cust_name": "YHK"
+    },
+    {
+        "cust_code": "32X5",
+        "cust_name": "YNA-E"
+    },
+    {
+        "cust_code": "32Y1",
+        "cust_name": "YAS"
+    },
+    {
+        "cust_code": "32Y2",
+        "cust_name": "YUY"
+    },
+    {
+        "cust_code": "32Y4",
+        "cust_name": "YAB-I"
+    },
+    {
+        "cust_code": "32Y5",
+        "cust_name": "YBL"
+    },
+    {
+        "cust_code": "32Y6",
+        "cust_name": "YBL-S"
+    },
+    {
+        "cust_code": "32Y8",
+        "cust_name": "YCL"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "name": "-",
+        "description": "-",
+        "is_admin": false
+    },
+    {
+        "name": "Admin",
+        "description": "Administrator",
+        "is_admin": true
+    },
+    {
+        "name": "User",
+        "description": "User",
+        "is_admin": false
+    }
+]

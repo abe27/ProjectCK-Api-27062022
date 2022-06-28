@@ -1,0 +1,14 @@
+[
+    {
+        "name": "-",
+        "description": "-"
+    },
+    {
+        "name": "P",
+        "description": "prepaid"
+    },
+    {
+        "name": "C",
+        "description": "corrective"
+    }
+]

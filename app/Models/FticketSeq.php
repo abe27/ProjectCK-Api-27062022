@@ -13,6 +13,7 @@ class FticketSeq extends Model
     use HasFactory, Nanoids, Notifiable, HasApiTokens;
 
     protected $fillable = [
+        'prefix',
         'on_year',
         'last_running',
         'is_active',

@@ -14,6 +14,7 @@ class Container extends Model
 
     protected $fillable = [
         'container_type_id',
+        'container_size_id',
         'container_date',
         'container_no',
         'seal_no',

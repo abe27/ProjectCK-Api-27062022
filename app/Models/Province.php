@@ -13,6 +13,7 @@ class Province extends Model
     use HasFactory, Nanoids, Notifiable, HasApiTokens;
 
     protected $fillable = [
+        'countries_id',
         'name',
         'description',
         'is_active',

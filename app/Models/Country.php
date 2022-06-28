@@ -13,6 +13,7 @@ class Country extends Model
     use HasFactory, Nanoids, Notifiable, HasApiTokens;
 
     protected $fillable = [
+        'region_id',
         'name',
         'description',
         'is_active',

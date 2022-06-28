@@ -24,6 +24,7 @@ return new class extends Migration
             $table->char('size_id', 36)->nullable();
             $table->char('color_id', 36)->nullable();
             $table->char('unit_id', 36)->nullable();
+            $table->char('part_vendor_id', 36)->nullable();
             $table->decimal('width', 36)->nullable()->default(0);
             $table->decimal('length', 36)->nullable()->default(0);
             $table->decimal('height', 36)->nullable()->default(0);
@@ -40,6 +41,7 @@ return new class extends Migration
             $table->foreign('size_id')->references('id')->on('sizes')->nullOnDelete();
             $table->foreign('color_id')->references('id')->on('colors')->nullOnDelete();
             $table->foreign('unit_id')->references('id')->on('unit_types')->nullOnDelete();
+            $table->foreign('part_vendor_id')->references('id')->on('part_vendors')->nullOnDelete();
         });
     }
 

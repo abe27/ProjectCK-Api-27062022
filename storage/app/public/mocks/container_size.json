@@ -1,0 +1,38 @@
+[
+    {
+        "name": "-",
+        "description": "-",
+        "w": "0",
+        "l": "0",
+        "h": "0",
+        "unit": "m",
+        "is_active": true
+    },
+    {
+        "name": "20Ft",
+        "description": "-",
+        "w": "2.3",
+        "l": "5.7",
+        "h": "2.4",
+        "unit": "m",
+        "is_active": true
+    },
+    {
+        "name": "40Ft",
+        "description": "-",
+        "w": "2.3",
+        "l": "12",
+        "h": "2.4",
+        "unit": "m",
+        "is_active": true
+    },
+    {
+        "name": "40HC",
+        "description": "-",
+        "w": "2.3",
+        "l": "12",
+        "h": "2.7",
+        "unit": "m",
+        "is_active": true
+    }
+]

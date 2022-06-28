@@ -1,0 +1,3202 @@
+[
+    {
+        "SHELVE": "S-A01-01-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-01-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-01-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-01-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-02-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-02-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-02-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-02-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-03-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-03-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-03-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-03-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-04-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-04-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-04-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-05-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-05-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-05-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-06-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-06-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-06-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-06-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-07-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-07-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-07-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-07-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-08-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-08-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-08-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-08-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-09-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-09-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-09-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-10-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-10-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-10-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-11-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-11-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-11-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-12-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-12-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-12-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-A01-13-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-01-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-01-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-01-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-01-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-02-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-02-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-02-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-02-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-03-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-03-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-03-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-03-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-04-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-04-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-04-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-04-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-05-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-05-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-05-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-05-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-06-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-06-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-06-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-06-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-07-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-07-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-07-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-07-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-08-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-08-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-08-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-08-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-09-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-09-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-09-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-09-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-10-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-10-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-10-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-10-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-11-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-11-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-11-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-11-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-12-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-12-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-12-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-12-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-13-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-13-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-13-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-13-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-14-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-14-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-B01-14-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-01-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-01-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-01-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-01-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-02-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-02-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-02-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-02-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-03-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-03-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-03-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-03-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-04-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-04-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-04-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-04-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-05-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-05-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-05-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-05-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-06-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-06-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-06-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-06-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-07-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-07-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-07-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-07-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-08-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-08-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-08-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-08-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-09-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-09-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-09-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-09-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-10-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-10-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-10-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-10-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-11-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-11-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-11-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-11-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-12-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-12-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-12-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-12-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-13-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-13-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-13-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-13-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-14-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-14-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-14-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-C01-14-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-CK1",
+        "DESCRIPTION": "ถูกขายโดน CK-1"
+    },
+    {
+        "SHELVE": "S-D01-01-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-01-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-01-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-01-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-02-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-02-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-02-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-02-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-03-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-03-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-03-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-03-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-04-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-04-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-04-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-04-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-05-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-05-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-05-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-05-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-06-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-06-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-06-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-06-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-07-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-07-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-07-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-07-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-08-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-08-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-08-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-08-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-09-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-09-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-09-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-09-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-10-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-10-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-10-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-10-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-11-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-11-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-11-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-11-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-12-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-12-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-12-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-12-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-13-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-13-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-13-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-13-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-14-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-14-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-14-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-D01-14-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-01-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-01-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-01-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-01-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-02-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-02-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-02-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-02-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-03-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-03-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-03-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-03-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-04-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-04-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-04-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-04-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-05-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-05-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-05-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-05-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-06-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-06-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-06-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-06-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-07-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-07-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-07-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-07-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-08-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-08-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-08-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-08-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-09-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-09-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-09-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-09-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-10-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-10-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-10-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-10-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-11-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-11-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-11-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-11-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-12-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-12-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-12-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-12-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-13-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-13-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-13-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-13-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-14-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-14-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-14-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-E01-14-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-01-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-01-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-01-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-01-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-02-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-02-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-02-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-02-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-03-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-03-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-03-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-03-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-04-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-04-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-04-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-04-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-05-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-05-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-05-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-05-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-06-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-06-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-06-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-07-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-07-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-07-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-07-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-08-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-08-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-08-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-08-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-09-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-09-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-09-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-09-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-10-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-10-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-10-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-10-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-11-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-11-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-11-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-11-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-12-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-12-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-12-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-12-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-13-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-13-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-13-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-13-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-14-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-14-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-14-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-F01-14-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-01-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-01-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-01-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-01-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-02-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-02-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-02-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-02-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-03-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-03-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-03-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-03-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-04-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-04-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-04-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-04-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-05-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-05-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-05-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-06-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-06-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-06-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-06-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-07-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-07-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-07-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-07-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-08-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-08-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-08-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-08-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-09-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-09-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-09-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-09-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-10-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-10-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-10-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-10-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-11-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-11-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-11-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-11-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-12-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-12-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-12-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-12-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-13-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-13-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-13-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-13-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-14-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-14-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-14-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-G01-14-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-01-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-01-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-01-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-01-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-02-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-02-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-02-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-02-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-03-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-03-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-03-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-03-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-04-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-04-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-04-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-04-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-05-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-05-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-05-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-05-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-06-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-06-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-06-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-06-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-07-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-07-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-07-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-07-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-08-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-08-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-08-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-08-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-09-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-09-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-09-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-09-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-10-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-10-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-10-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-10-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-11-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-11-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-11-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-11-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-12-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-12-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-12-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-12-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-13-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-13-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-13-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-13-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-14-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-14-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-14-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-H01-14-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-HOLD",
+        "DESCRIPTION": "พื้นที่จัดเก็บงานที่มีปัญหากล่องขาด-ชำรุด"
+    },
+    {
+        "SHELVE": "S-I01-01-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-01-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-01-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-01-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-02-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-02-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-02-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-02-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-03-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-03-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-03-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-03-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-04-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-04-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-04-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-04-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-05-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-05-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-05-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-05-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-06-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-06-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-06-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-06-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-07-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-07-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-07-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-07-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-08-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-08-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-08-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-08-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-09-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-09-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-09-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-09-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-10-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-10-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-10-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-10-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-11-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-11-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-11-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-11-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-12-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-12-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-12-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-12-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-13-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-13-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-13-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-13-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-14-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-14-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-14-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-I01-14-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-01-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-01-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-01-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-01-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-02-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-02-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-02-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-02-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-03-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-03-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-03-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-03-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-04-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-04-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-04-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-04-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-05-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-05-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-05-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-05-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-06-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-06-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-06-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-06-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-07-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-07-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-07-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-08-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-08-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-08-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-08-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-09-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-09-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-09-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-09-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-10-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-10-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-10-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-10-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-11-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-11-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-11-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-11-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-12-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-12-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-12-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-12-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-13-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-13-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-13-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-13-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-14-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-14-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-14-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-J01-14-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-K01-13-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-K01-14-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-K01-16-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-K01-18-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-K01-21-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-K01-22-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-K01-23-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-K01-24-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-K01-27-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-K01-28-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-K01-29-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-K01-32-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-K01-33-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-K01-34-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-K01-35-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-K01-36-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-K01-38-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-K01-40-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-K01-41-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-K01-42-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-K01-43-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-K01-44-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-01-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-01-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-01-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-01-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-02-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-02-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-02-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-02-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-03-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-03-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-03-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-03-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-04-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-04-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-04-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-04-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-05-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-05-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-05-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-05-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-06-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-06-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-06-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-06-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-07-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-07-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-07-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-07-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-08-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-08-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-08-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-L01-08-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-01-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-01-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-01-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-01-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-02-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-02-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-02-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-02-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-03-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-03-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-03-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-03-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-04-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-04-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-04-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-04-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-05-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-05-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-05-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-05-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-06-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-06-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-06-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-06-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-07-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-07-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-07-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-07-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-08-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-08-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-08-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-M01-08-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-01-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-01-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-01-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-01-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-02-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-02-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-02-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-02-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-03-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-03-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-03-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-03-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-04-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-04-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-04-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-04-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-05-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-05-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-05-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-05-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-06-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-06-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-06-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-06-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-07-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-07-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-07-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-07-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-08-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-08-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-08-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-N01-08-04",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-O01-01-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-O01-01-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-O01-01-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-O01-02-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-O01-02-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-O01-02-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-O01-03-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-O01-03-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-O01-03-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-O01-04-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-O01-04-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-O01-04-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-O01-05-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-O01-05-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-O01-05-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-O01-06-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-O01-06-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-O01-06-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-O01-07-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-O01-07-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-O01-07-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-OVER1",
+        "DESCRIPTION": "พื้นที่เก็บงานนอกชั้น"
+    },
+    {
+        "SHELVE": "S-OVER2",
+        "DESCRIPTION": "พื้นที่เก็บงานนอกชั้น"
+    },
+    {
+        "SHELVE": "S-OVER3",
+        "DESCRIPTION": "พื้นที่เก็บงานนอกชั้น"
+    },
+    {
+        "SHELVE": "S-P01-01-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-P01-01-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-P01-01-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-P01-02-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-P01-02-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-P01-02-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-P01-03-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-P01-03-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-P01-03-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-P01-04-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-P01-04-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-P01-04-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-P01-05-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-P01-05-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-P01-05-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-P01-06-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-P01-06-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-P01-06-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-P01-07-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-P01-07-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-P01-07-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-P01-11-15",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-P58",
+        "DESCRIPTION": "พื้นที่งานมีปัญหา(QA)"
+    },
+    {
+        "SHELVE": "S-P59",
+        "DESCRIPTION": "พื้นที่งานมีปัญหา(QA)"
+    },
+    {
+        "SHELVE": "S-PLOUT",
+        "DESCRIPTION": "งานที่แสกนขายไปแล้ว"
+    },
+    {
+        "SHELVE": "S-Q01-01-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-Q01-01-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-Q01-01-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-Q01-02-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-Q01-02-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-Q01-02-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-Q01-03-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-Q01-03-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-Q01-03-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-Q01-04-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-Q01-04-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-Q01-04-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-Q01-05-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-Q01-05-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-Q01-05-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-Q01-06-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-Q01-06-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-Q01-06-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-Q01-07-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-Q01-07-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-Q01-07-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-R01-01-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-R01-01-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-R01-01-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-R01-02-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-R01-02-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-R01-02-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-R01-03-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-R01-03-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-R01-03-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-R01-04-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-R01-04-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-R01-04-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-R01-05-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-R01-05-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-R01-05-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-R01-06-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-R01-06-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-R01-06-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-R01-07-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-R01-07-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-R01-07-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-RECHECK",
+        "DESCRIPTION": "พื้นที่จัดเก็บงาน RE-CHECK"
+    },
+    {
+        "SHELVE": "S-REPALLET",
+        "DESCRIPTION": "สถานะกำลังทำพาเลท"
+    },
+    {
+        "SHELVE": "S-S01-01-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-S01-01-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-S01-01-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-S01-02-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-S01-02-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-S01-02-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-S01-03-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-S01-03-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-S01-03-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-S01-04-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-S01-04-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-S01-04-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-S01-05-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-S01-05-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-S01-05-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-S01-06-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-S01-06-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-S01-06-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-S01-07-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-S01-07-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-S01-07-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-T01-01-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-T01-01-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-T01-01-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-T01-02-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-T01-02-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-T01-02-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-T01-03-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-T01-03-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-T01-03-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-T01-04-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-T01-04-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-T01-04-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-T01-05-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-T01-05-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-T01-05-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-T01-06-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-T01-06-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-T01-06-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-T01-07-01",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-T01-07-02",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-T01-07-03",
+        "DESCRIPTION": "พื้นที่จัดเก็บ"
+    },
+    {
+        "SHELVE": "S-XXX",
+        "DESCRIPTION": "จัดเตรียม"
+    },
+    {
+        "SHELVE": "SNON",
+        "DESCRIPTION": "ยังไม่มีการเก็บเข้า Location"
+    }
+]

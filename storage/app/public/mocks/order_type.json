@@ -1,0 +1,14 @@
+[
+    {
+        "name": "-",
+        "description": "-"
+    },
+    {
+        "name": "E",
+        "description": "EMERGENCY"
+    },
+    {
+        "name": "M",
+        "description": "MANUAL"
+    }
+]

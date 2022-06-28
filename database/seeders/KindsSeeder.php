@@ -2,6 +2,7 @@
 
 namespace Database\Seeders;
 
+use App\Models\Kinds;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 
@@ -14,6 +15,10 @@ class KindsSeeder extends Seeder
      */
     public function run()
     {
-        //
+        Kinds::truncate();
+        $obj = new Kinds();
+        $obj->name = '-';
+        $obj->is_active = true;
+        $obj->save();
     }
 }

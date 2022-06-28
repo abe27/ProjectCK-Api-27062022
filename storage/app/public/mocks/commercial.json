@@ -1,0 +1,14 @@
+[
+    {
+        "name": "-",
+        "description": "-"
+    },
+    {
+        "name": "C",
+        "description": "commercial"
+    },
+    {
+        "name": "N",
+        "description": "non commercial"
+    }
+]

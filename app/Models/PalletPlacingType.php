@@ -20,6 +20,9 @@ class PalletPlacingType extends Model
         'length',
         'height',
         'per_pallet',
+        'carton_size_width',
+        'carton_size_length',
+        'carton_size_height',
         'is_active',
     ];
 }

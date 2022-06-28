@@ -22,8 +22,10 @@ class Ledgers extends Model
         'size_id',
         'color_id',
         'unit_id',
+        'part_vendor_id',
         'width',
         'length',
+        'height',
         'gross_weight',
         'net_weight',
         'is_active'

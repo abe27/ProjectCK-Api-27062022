@@ -23,7 +23,9 @@ class AffiliateSeeder extends Seeder
         foreach ($data as $r) {
             $obj = new Affiliate();
             $obj->name = $r->affcode;
+            $obj->is_active = true;
             $obj->save();
+            $this->command->warn("Insert Affiliate: " . $r->affcode . " successfully");
         }
     }
 }

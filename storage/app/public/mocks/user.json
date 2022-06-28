@@ -1,5 +1,11 @@
 [
     {
+        "name": "Guest",
+        "empcode": "000001",
+        "email": "guest@localhost",
+        "password": "guest@spl"
+    },
+    {
         "name": "Administrator",
         "empcode": "30000",
         "email": "krumii.it@gmail.com",

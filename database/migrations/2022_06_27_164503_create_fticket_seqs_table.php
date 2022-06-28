@@ -15,6 +15,7 @@ return new class extends Migration
     {
         Schema::create('fticket_seqs', function (Blueprint $table) {
             $table->char('id', 36)->primary();
+            $table->char('prefix', 5);
             $table->integer('on_year');
             $table->integer('last_running');
             $table->boolean('is_active')->nullable()->default(false);

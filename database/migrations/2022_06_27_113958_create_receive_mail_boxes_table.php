@@ -16,7 +16,8 @@ return new class extends Migration
         Schema::create('receive_mail_boxes', function (Blueprint $table) {
             $table->char('id', 36)->primary();
             $table->char('whs_id', 36);
-            $table->string('mail_box_id', 7)->unique();
+            $table->string('mail_box_id', 7);
+            $table->string('mail_box_pwd', 50);
             $table->boolean('is_active')->nullable()->default(false);
             $table->timestamps();
             $table->foreign('whs_id')->references('id')->on('whs')->cascadeOnDelete();
