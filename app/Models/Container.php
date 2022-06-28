@@ -17,7 +17,11 @@ class Container extends Model
         'container_date',
         'container_no',
         'seal_no',
-        'is_closed',
+        'vessel',
+        'loading_port',
+        'container_enter_at',
+        'container_release_at',
+        'is_status',
         'is_active',
     ];
 }

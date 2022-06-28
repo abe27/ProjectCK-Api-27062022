@@ -17,9 +17,13 @@ return new class extends Migration
             $table->char('id', 36)->primary();
             $table->char('container_type_id', 36)->nullable();
             $table->date('container_date');
-            $table->string('container_no', 25);
-            $table->string('seal_no', 25);
-            $table->boolean('is_closed')->nullable()->default(false);
+            $table->string('container_no', 50);
+            $table->string('seal_no',50);
+            $table->string('vessel', 50)->nullable();
+            $table->string('loading_port', 50)->nullable();
+            $table->dateTime('container_enter_at')->nullable();
+            $table->dateTime('container_release_at')->nullable();
+            $table->enum('is_status', ['E', 'L', 'R', 'C', 'H'])->nullable()->default('E');
             $table->boolean('is_active')->nullable()->default(false);
             $table->timestamps();
             $table->foreign('container_type_id')->references('id')->on('container_types')->nullOnDelete();
