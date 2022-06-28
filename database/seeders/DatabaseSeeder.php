@@ -55,7 +55,7 @@ class DatabaseSeeder extends Seeder
         $this->call(LocationSeeder::class);
         $this->call(ReceiveMailBoxSeeder::class);
         $this->call(CompanySeeder::class);
-
+        $this->call(RequestInformationTypeSeeder::class);
         /// Seed Data
         Schema::enableForeignKeyConstraints();
     }
