@@ -21,13 +21,14 @@ class Invoice extends Model
         'ship_via',
         'ship_der',
         'title_id',
-        'loading_area',
+        'loading_area_id',
         'privilege',
         'zone_code',
         'invoice_status',
         'references_id',
         'resend_gedi',
         'is_completed',
+        'is_wait_send',
         'is_active',
     ];
 }

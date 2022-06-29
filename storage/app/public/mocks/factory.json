@@ -1,5 +1,10 @@
 [
     {
+        "name": "-",
+        "prefix": "-",
+        "description": "-"
+    },
+    {
         "name": "INJ",
         "prefix": "TI",
         "description": "INJECTION"

@@ -1,0 +1,1650 @@
+[
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "1200",
+        "customer_id": "1200",
+        "address_id": "-",
+        "prefix": "YC"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32A7",
+        "customer_id": "32A7",
+        "address_id": "ZHANGZHOU YAZAKI AUTO PARTS CO.,LTD",
+        "prefix": "ZZ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32AF",
+        "customer_id": "32AF",
+        "address_id": "THAIBINH BRANCH OF YAZAKI",
+        "prefix": "HB"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32AG",
+        "customer_id": "32AG",
+        "address_id": "XIAOGAN YAZAKI AUTO PARTS CO.,LTD",
+        "prefix": "XG"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32B1",
+        "customer_id": "32B1",
+        "address_id": "ARNECOM,SA DE CV",
+        "prefix": "AX"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32B6",
+        "customer_id": "32B6",
+        "address_id": "ARNECOM S.A. DE C.V",
+        "prefix": "AX"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32B7",
+        "customer_id": "32B7",
+        "address_id": "ARNECOM S.A. DE C.V",
+        "prefix": "AX"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32BF",
+        "customer_id": "32BF",
+        "address_id": "TIANJIN YAZAKI AUTOMOTIVE PARTS CO.,LTD",
+        "prefix": "TT"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32BG",
+        "customer_id": "32BG",
+        "address_id": "-",
+        "prefix": "YG"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32C8",
+        "customer_id": "32C8",
+        "address_id": "YAZAKI NORTH AMERICA",
+        "prefix": "NA"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32CA",
+        "customer_id": "32CA",
+        "address_id": "-",
+        "prefix": "YP"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32CC",
+        "customer_id": "32CC",
+        "address_id": "YAZAKI AUTOPARTS DO BRASIL LTDA(COMBU)",
+        "prefix": "BI"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32CG",
+        "customer_id": "32CG",
+        "address_id": "-",
+        "prefix": "AS"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32CH",
+        "customer_id": "32CH",
+        "address_id": "-",
+        "prefix": "SJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32CJ",
+        "customer_id": "32CJ",
+        "address_id": "QUANGNINH BR. OF YAZAKI HAIPHONG VIETNAM",
+        "prefix": "QN"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32D1",
+        "customer_id": "32D1",
+        "address_id": "-",
+        "prefix": "TO"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32D2",
+        "customer_id": "32D2",
+        "address_id": "-",
+        "prefix": "TG"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32D4",
+        "customer_id": "32D4",
+        "address_id": "YAZAKI ROMANIA SRL",
+        "prefix": "YR"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32D9",
+        "customer_id": "32D9",
+        "address_id": "-",
+        "prefix": "UE"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32DE",
+        "customer_id": "32DE",
+        "address_id": "-",
+        "prefix": "TV"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32DG",
+        "customer_id": "32DG",
+        "address_id": "-",
+        "prefix": "BF"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32DJ",
+        "customer_id": "32DJ",
+        "address_id": "YAZAKI INDIA PRIVATE LIMITED",
+        "prefix": "RB"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32E1",
+        "customer_id": "32E1",
+        "address_id": "YAZAKI SALTANO DE OVAR",
+        "prefix": "SP"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32E2",
+        "customer_id": "32E2",
+        "address_id": "YAZAKI SALTANO DE OVAR",
+        "prefix": "SP"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32EJ",
+        "customer_id": "32EJ",
+        "address_id": "-",
+        "prefix": "EJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32G0",
+        "customer_id": "32G0",
+        "address_id": "-",
+        "prefix": "TT"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32G2",
+        "customer_id": "32G2",
+        "address_id": "PT.SUBANG AUTOCOMP INDONESIA",
+        "prefix": "AI"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32G7",
+        "customer_id": "32G7",
+        "address_id": "-",
+        "prefix": "JI"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32G8",
+        "customer_id": "32G8",
+        "address_id": "-",
+        "prefix": "PS"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32G9",
+        "customer_id": "32G9",
+        "address_id": "TAIWAN YAZAKI CORPORATION",
+        "prefix": "TY"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32H0",
+        "customer_id": "32H0",
+        "address_id": "-",
+        "prefix": "TT"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32H2",
+        "customer_id": "32H2",
+        "address_id": "YAZAKI HAIPHONG VIETNAM,LTD",
+        "prefix": "HV"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32H7",
+        "customer_id": "32H7",
+        "address_id": "FOSHAN SHUNDE YAZAKI AUTO PARTS CO.,LTD",
+        "prefix": "FY"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32H8",
+        "customer_id": "32H8",
+        "address_id": "TAIWAN YAZAKI CORPORATION",
+        "prefix": "TY"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32J1",
+        "customer_id": "32J1",
+        "address_id": "YAZAKI EUROPE LTD.",
+        "prefix": "UK"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32K8",
+        "customer_id": "32K8",
+        "address_id": "ELCOM, INC.",
+        "prefix": "EL"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32M1",
+        "customer_id": "32M1",
+        "address_id": "-",
+        "prefix": "VN"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32M3",
+        "customer_id": "32M3",
+        "address_id": "-",
+        "prefix": "SA"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32M4",
+        "customer_id": "32M4",
+        "address_id": "-",
+        "prefix": "SI"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32M8",
+        "customer_id": "32M8",
+        "address_id": "-",
+        "prefix": "PM"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32N1",
+        "customer_id": "32N1",
+        "address_id": "YAZAKI INDIA PVT.LTD.",
+        "prefix": "TA"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32N2",
+        "customer_id": "32N2",
+        "address_id": "-",
+        "prefix": "YW"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32N3",
+        "customer_id": "32N3",
+        "address_id": "YAZAKI INDIA PVT.LTD.",
+        "prefix": "AB"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32P8",
+        "customer_id": "32P8",
+        "address_id": "YAZAKI-TORRES MANUFACTURING,INC.",
+        "prefix": "YI"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32Q8",
+        "customer_id": "32Q8",
+        "address_id": "-",
+        "prefix": "EM"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32R4",
+        "customer_id": "32R4",
+        "address_id": "HANGZHOU YAZAKI PART CO.,LTD",
+        "prefix": "HZ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32R7",
+        "customer_id": "32R7",
+        "address_id": "YAZAKI (CHINA) INVESTMENT CORPORATION",
+        "prefix": "IV"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32R8",
+        "customer_id": "32R8",
+        "address_id": "-",
+        "prefix": "TT"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32U5",
+        "customer_id": "32U5",
+        "address_id": "GRUPO YAZAKI S.A. DE C.V. (DDC)",
+        "prefix": "AM"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32U9",
+        "customer_id": "32U9",
+        "address_id": "YAZAKI NORTH AMERICA",
+        "prefix": "YN"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W2",
+        "customer_id": "32W2",
+        "address_id": "HUA NAN YAZAKI (SHANTOU) AUTO PARTS CO., LTD",
+        "prefix": "HN"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4",
+        "address_id": "YAZAKI (HONG KONG) LIMITED",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W41",
+        "address_id": "JOHOKU HAIPHONG CO., LTD THAIBINH BRANCH",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W414",
+        "address_id": "APTIV ELECTRIC SYSTEMS CO., LTD",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W416",
+        "address_id": "APTIV ELECTRIC SYSTEMS CO., LTD",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W417",
+        "address_id": "APTIV MALAYSIA SDN. BHD.",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W418",
+        "address_id": "YUEH DER INDUSTRIAL CO ., LTD.",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W419",
+        "address_id": "APTIV ELECTRIC SYSTEMS CO., LTD",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W42",
+        "address_id": "SOUGOU VETNAM CO., LTD",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W424",
+        "address_id": "FUZHOU SHIN YUE ELECTRIC CO LTD",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W428",
+        "address_id": "LEAR CORPORATION",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W43",
+        "address_id": "CTE TECH CORP.",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W432",
+        "address_id": "YIOU GUAN OPTOTECH CO., LTD",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W433",
+        "address_id": "BEIJING LEAR AUTOMOBILE",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W434",
+        "address_id": "XIAMEN CST AUTOMOTIVE CO LTD",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W437",
+        "address_id": "LEAR AUTOMOTIVE SYSTEM(YANGZHOU)CO. ,LTD",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W44",
+        "address_id": "YACENTER ELECTRIC CO., LTD",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W442",
+        "address_id": "APTIV COMPONENTS INDIA PRIVATE LTD.",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W446",
+        "address_id": "-",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W449",
+        "address_id": "CHANGCHUN FAWSN LEAR AUTOMOTIVE ELECTRICAL CO.,LTD",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W45",
+        "address_id": "TAI YUE ELECTRIC CO., LTD",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W451",
+        "address_id": "CHENGDU KANG CHENG ELECTRONIC INC.",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W452",
+        "address_id": "AMPHENOL-TEC (CHANGZHOU)",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W456",
+        "address_id": "PT. CIPTA MANDIRI WIRASAKTI",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W459",
+        "address_id": "PT DHARMA ELECTRINDO MFG",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W46",
+        "address_id": "SHANGHAI LEAR STEC AUTOMOTIVE",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W460",
+        "address_id": "SEGUE XIAMEN MANUFACTURING",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W465",
+        "address_id": "APTIV ELECTRIC SYSTEMS CO., LTD",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W466",
+        "address_id": "APTIV ELECTRIC SYSTEMS CO., LTD",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W473",
+        "address_id": "TEETRONICS INDUSTRIAL(M)SDN BHD",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W476",
+        "address_id": "APTIV ELECTRICAL CENTERS(SHANGHAI)CO.,LTD",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W48",
+        "address_id": "WUHAN LEAR-DFM AUTO ELECTRIC CO. LTD.",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W480",
+        "address_id": "LEONI ELECTRICAL SYSTEMS (JINING) CO., LTD",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W49",
+        "address_id": "LEAR AUTOMOTIVE SYSTEMS (CHONGQING)",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4A2",
+        "address_id": "APTIV COMPONENTS INDIA PRIVATE LTD.",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4B7",
+        "address_id": "HONAMI ELECTRONICS (S) PTE LTD",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4D3",
+        "address_id": "PT.INDONESIA STANLEY ELECTRIC",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4D4",
+        "address_id": "JK WIRE HARNESS SDN BHD,",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4G3",
+        "address_id": "PT. APTIV COMPONENTS INDONESIA",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4G9",
+        "address_id": "APTIV COMPONENTS INDIA PRIVATE LTD.",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4H3",
+        "address_id": "ASAHI BEST BASE SDN BHD",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4J2",
+        "address_id": "DONGGUAN MOLEX C/O GLORY FOCUS",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4K8",
+        "address_id": "PNA TECHNOLOGIES SDN BHD",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4L6",
+        "address_id": "APTIV ELECTRIC SYSTEMS CO., LTD TIANJIN BRANCH",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4L7",
+        "address_id": "APTIV CONNECTION SYSTEMS(NANTONG)LTD",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4L8",
+        "address_id": "SUNTEK ELECTRONICS (SUZHOU) CO LTD",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4L9",
+        "address_id": "IPS ELECTRONICS SDN BHD",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4M4",
+        "address_id": "SHENG TENG ELECTRON INT'LCO.,LTD",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4M5",
+        "address_id": "APTIV ELECTRIC SYSTEMS CO., LTD",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4M6",
+        "address_id": "APTIV CONNECTION SYSTEMS INDIA PRIVATE LTD.",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4M9",
+        "address_id": "PT TDK ELECTRONICS INDONESIA",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4N2",
+        "address_id": "APTIV ELECTRIC SYSTEMS CO., LTD JINGZHOU BRANCH",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4N6",
+        "address_id": "PT. BANSHU ELECTRIC INDONESIA",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4N8",
+        "address_id": "WUHAN LEAR-DFM AUTO ELECTRIC CO,LTD SUINING BRANCH",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4O1",
+        "address_id": "PT. GS ELECTECH INDONESIA",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4O2",
+        "address_id": "APTIV ELECTRIC SYSTEMS CO., LTD. JIAXING BRANCH",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4O6",
+        "address_id": "ASTI ELECTRONICS HANOI CORP.",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4O7",
+        "address_id": "VIETNAM STANLEY ELECTRIC COMPANY LIMITED",
+        "prefix": "H"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W9",
+        "address_id": "-",
+        "prefix": "HK"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W915",
+        "address_id": "SEASON COMPONENTS CO.,LTD",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W917",
+        "address_id": "SMALL TINY LIMITED",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W922",
+        "address_id": "CHUNG YI ENTERPRISE (HK) CO., LTD.",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W6",
+        "customer_id": "32W6",
+        "address_id": "-",
+        "prefix": "SY"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W7",
+        "customer_id": "32W7",
+        "address_id": "-",
+        "prefix": "SY"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W9",
+        "customer_id": "32W9",
+        "address_id": "YAZAKI(HONG KONG)LIMITED",
+        "prefix": "HK"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32W9",
+        "customer_id": "32W93",
+        "address_id": "-",
+        "prefix": "HK"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32X5",
+        "customer_id": "32X5",
+        "address_id": "YAZAKI NORTH AMERICA",
+        "prefix": "EP"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32Y1",
+        "customer_id": "32Y1",
+        "address_id": "-",
+        "prefix": "YA"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32Y2",
+        "customer_id": "32Y2",
+        "address_id": "YAZAKI URUGUAY S.A.",
+        "prefix": "YU"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32Y4",
+        "customer_id": "32Y4",
+        "address_id": "YAZAKI AUTOPARTS DO BRASIL",
+        "prefix": "BI"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32Y5",
+        "customer_id": "32Y5",
+        "address_id": "YAZAKI DO BRASIL LTDA.",
+        "prefix": "BZ"
+    },
+    {
+        "profile_id": "00523",
+        "factory_id": "INJ",
+        "affiliates_id": "32Y6",
+        "customer_id": "32Y6",
+        "address_id": "YAZAKI DO BRASIL LTDA.",
+        "prefix": "BS"
+    },
+    {
+        "profile_id": "00534",
+        "factory_id": "INJ",
+        "affiliates_id": "32BF",
+        "customer_id": "32BF",
+        "address_id": "TIANJIN YAZAKI AUTOMOTIVE PARTS CO.,LTD",
+        "prefix": "TT"
+    },
+    {
+        "profile_id": "00534",
+        "factory_id": "INJ",
+        "affiliates_id": "32BG",
+        "customer_id": "32BG",
+        "address_id": "YANTAI YAZAKI AUTOMOTIVE PART CO.,LTD.",
+        "prefix": "YG"
+    },
+    {
+        "profile_id": "00534",
+        "factory_id": "INJ",
+        "affiliates_id": "32CA",
+        "customer_id": "32CA",
+        "address_id": "YAZAKI PARAGUAY S.R.L.",
+        "prefix": "YP"
+    },
+    {
+        "profile_id": "00534",
+        "factory_id": "INJ",
+        "affiliates_id": "32CG",
+        "customer_id": "32CG",
+        "address_id": "ASIA CORPORATION LIMITED",
+        "prefix": "AS"
+    },
+    {
+        "profile_id": "00534",
+        "factory_id": "INJ",
+        "affiliates_id": "32CH",
+        "customer_id": "32CH",
+        "address_id": "PT.SEMARANG AUTOCOMP MANUFACTURING",
+        "prefix": "SJ"
+    },
+    {
+        "profile_id": "00534",
+        "factory_id": "INJ",
+        "affiliates_id": "32D1",
+        "customer_id": "32D1",
+        "address_id": "YAZAKI OTOMOTIV YAN SAN VE TIC.AS",
+        "prefix": "TO"
+    },
+    {
+        "profile_id": "00534",
+        "factory_id": "INJ",
+        "affiliates_id": "32D2",
+        "customer_id": "32D2",
+        "address_id": "YAZAKI OTOMOTIV YAN SANAYI VE TICARET A.S.",
+        "prefix": "TG"
+    },
+    {
+        "profile_id": "00534",
+        "factory_id": "INJ",
+        "affiliates_id": "32D9",
+        "customer_id": "32D9",
+        "address_id": "HESTO HARNESSES (PROPRIETARY) LIMITED",
+        "prefix": "UE"
+    },
+    {
+        "profile_id": "00534",
+        "factory_id": "INJ",
+        "affiliates_id": "32DE",
+        "customer_id": "32DE",
+        "address_id": "YAZAKI EDS VIETNAM CO., LTD.",
+        "prefix": "TV"
+    },
+    {
+        "profile_id": "00534",
+        "factory_id": "INJ",
+        "affiliates_id": "32DG",
+        "customer_id": "32DG",
+        "address_id": "PT.SURABAYA AUTOCOMP INDONESIA",
+        "prefix": "BF"
+    },
+    {
+        "profile_id": "00534",
+        "factory_id": "INJ",
+        "affiliates_id": "32G0",
+        "customer_id": "32G0",
+        "address_id": "TIANJIN YAZAKI AUTOMOTIVE PARTS CO.,LTD",
+        "prefix": "TT"
+    },
+    {
+        "profile_id": "00534",
+        "factory_id": "INJ",
+        "affiliates_id": "32G7",
+        "customer_id": "32G7",
+        "address_id": "PT. JATIM AUTOCOMP INDONESIA",
+        "prefix": "JI"
+    },
+    {
+        "profile_id": "00534",
+        "factory_id": "INJ",
+        "affiliates_id": "32G8",
+        "customer_id": "32G8",
+        "address_id": "PT AUTOCOMP SYSTEMS INDONESIA",
+        "prefix": "PS"
+    },
+    {
+        "profile_id": "00534",
+        "factory_id": "INJ",
+        "affiliates_id": "32H0",
+        "customer_id": "32H0",
+        "address_id": "TIANJIN YAZAKI AUTOMOTIVE PART CO.,LTD",
+        "prefix": "TT"
+    },
+    {
+        "profile_id": "00534",
+        "factory_id": "INJ",
+        "affiliates_id": "32M1",
+        "customer_id": "32M1",
+        "address_id": "YAZAKI EDS VIETNAM CO., LTD.",
+        "prefix": "VN"
+    },
+    {
+        "profile_id": "00534",
+        "factory_id": "INJ",
+        "affiliates_id": "32M3",
+        "customer_id": "32M3",
+        "address_id": "PT.SEMARANG AUTOCOMP MANUFACTURING",
+        "prefix": "SA"
+    },
+    {
+        "profile_id": "00534",
+        "factory_id": "INJ",
+        "affiliates_id": "32M4",
+        "customer_id": "32M4",
+        "address_id": "PT.SURABAYA AUTOCOMP INDONESIA",
+        "prefix": "SI"
+    },
+    {
+        "profile_id": "00534",
+        "factory_id": "INJ",
+        "affiliates_id": "32M8",
+        "customer_id": "32M8",
+        "address_id": "PT.EDS MANUFACTURING INDONESIA",
+        "prefix": "PM"
+    },
+    {
+        "profile_id": "00534",
+        "factory_id": "INJ",
+        "affiliates_id": "32N2",
+        "customer_id": "32N2",
+        "address_id": "YAZAKI INDIA PVT. LTD",
+        "prefix": "YW"
+    },
+    {
+        "profile_id": "00534",
+        "factory_id": "INJ",
+        "affiliates_id": "32Q8",
+        "customer_id": "32Q8",
+        "address_id": "EDS MANUFACTURING INCORPORATED",
+        "prefix": "EM"
+    },
+    {
+        "profile_id": "00534",
+        "factory_id": "INJ",
+        "affiliates_id": "32R4",
+        "customer_id": "32R4",
+        "address_id": "HANGZHOU YAZAKI PART CO.,LTD",
+        "prefix": "HZ"
+    },
+    {
+        "profile_id": "00534",
+        "factory_id": "INJ",
+        "affiliates_id": "32R8",
+        "customer_id": "32R8",
+        "address_id": "TIANJIN YAZAKI AUTOMOTIVE PARTS CO.,LTD.",
+        "prefix": "TT"
+    },
+    {
+        "profile_id": "00534",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W9",
+        "address_id": "YAZAKI(HONG KONG)LIMITED",
+        "prefix": "HK"
+    },
+    {
+        "profile_id": "00534",
+        "factory_id": "INJ",
+        "affiliates_id": "32W6",
+        "customer_id": "32W6",
+        "address_id": "YUSEN LOGISTICS (HONG KONG) LTD",
+        "prefix": "SY"
+    },
+    {
+        "profile_id": "00534",
+        "factory_id": "INJ",
+        "affiliates_id": "32W7",
+        "customer_id": "32W7",
+        "address_id": "YUSEN LOGISTICS (HONG KONG) LTD",
+        "prefix": "SY"
+    },
+    {
+        "profile_id": "00534",
+        "factory_id": "INJ",
+        "affiliates_id": "32W9",
+        "customer_id": "32W93",
+        "address_id": "MOL LOGISTICS (HK) LTD..",
+        "prefix": "HK"
+    },
+    {
+        "profile_id": "00534",
+        "factory_id": "INJ",
+        "affiliates_id": "32Y1",
+        "customer_id": "32Y1",
+        "address_id": "YAZAKI ARGENTINA S.R.L.",
+        "prefix": "YA"
+    },
+    {
+        "profile_id": "00534",
+        "factory_id": "INJ",
+        "affiliates_id": "32Y8",
+        "customer_id": "32Y8",
+        "address_id": "YAZAKI CIEMEL S.A.",
+        "prefix": "CL"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "1200",
+        "customer_id": "1200",
+        "address_id": "YAZAKI CORPORATION",
+        "prefix": "YC"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32A7",
+        "customer_id": "32A7",
+        "address_id": "ZHANGZHOU YAZAKI AUTO PARTS CO.,LTD",
+        "prefix": "ZZ"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32AF",
+        "customer_id": "32AF",
+        "address_id": "THAIBINH BRANCH OF YAZAKI",
+        "prefix": "HB"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32AG",
+        "customer_id": "32AG",
+        "address_id": "XIAOGAN YAZAKI AUTO PARTS CO.,LTD",
+        "prefix": "XG"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32B6",
+        "customer_id": "32B6",
+        "address_id": "ARNECOM S.A. DE C.V",
+        "prefix": "AX"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32BF",
+        "customer_id": "32BF",
+        "address_id": "TIANJIN YAZAKI AUTOMOTIVE PARTS CO.,LTD",
+        "prefix": "TT"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32CH",
+        "customer_id": "32CH",
+        "address_id": "PT.SEMARANG AUTOCOMP MANUFACTURING",
+        "prefix": "SJ"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32CJ",
+        "customer_id": "32CJ",
+        "address_id": "QUANGNINH BR. OF YAZAKI HAIPHONG VIETNAM",
+        "prefix": "QN"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32D1",
+        "customer_id": "32D1",
+        "address_id": "YAZAKI OTOMOTIV YAN SAN VE TIC.AS",
+        "prefix": "TO"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32D2",
+        "customer_id": "32D2",
+        "address_id": "YAZAKI OTOMOTIV YAN SANAYI VE TICARET A.S.",
+        "prefix": "TG"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32D9",
+        "customer_id": "32D9",
+        "address_id": "HESTO HARNESSES (PROPRIETARY) LIMITED",
+        "prefix": "UE"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32DE",
+        "customer_id": "32DE",
+        "address_id": "YAZAKI EDS VIETNAM CO., LTD.",
+        "prefix": "TV"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32DG",
+        "customer_id": "32DG",
+        "address_id": "PT.SURABAYA AUTOCOMP INDONESIA",
+        "prefix": "BF"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32DJ",
+        "customer_id": "32DJ",
+        "address_id": "YAZAKI INDIA PRIVATE LIMITED",
+        "prefix": "RB"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32E1",
+        "customer_id": "32E1",
+        "address_id": "YAZAKI SALTANO DE OVAR",
+        "prefix": "SP"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32E2",
+        "customer_id": "32E2",
+        "address_id": "YAZAKI SALTANO DE OVAR",
+        "prefix": "SP"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32G0",
+        "customer_id": "32G0",
+        "address_id": "TIANJIN YAZAKI AUTOMOTIVE PARTS CO.,LTD",
+        "prefix": "TT"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32G2",
+        "customer_id": "32G2",
+        "address_id": "PT.SUBANG AUTOCOMP INDONESIA",
+        "prefix": "AI"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32G7",
+        "customer_id": "32G7",
+        "address_id": "PT. JATIM AUTOCOMP INDONESIA",
+        "prefix": "JI"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32G9",
+        "customer_id": "32G9",
+        "address_id": "TAIWAN YAZAKI CORPORATION",
+        "prefix": "TY"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32H0",
+        "customer_id": "32H0",
+        "address_id": "TIANJIN YAZAKI AUTOMOTIVE PART CO.,LTD",
+        "prefix": "TT"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32H2",
+        "customer_id": "32H2",
+        "address_id": "YAZAKI HAIPHONG VIETNAM,LTD",
+        "prefix": "HV"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32H8",
+        "customer_id": "32H8",
+        "address_id": "TAIWAN YAZAKI CORPORATION",
+        "prefix": "TY"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32J1",
+        "customer_id": "32J1",
+        "address_id": "YAZAKI EUROPE LTD.",
+        "prefix": "UK"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32M1",
+        "customer_id": "32M1",
+        "address_id": "YAZAKI EDS VIETNAM CO., LTD.",
+        "prefix": "VN"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32M3",
+        "customer_id": "32M3",
+        "address_id": "PT.SEMARANG AUTOCOMP MANUFACTURING",
+        "prefix": "SA"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32M4",
+        "customer_id": "32M4",
+        "address_id": "PT.SURABAYA AUTOCOMP INDONESIA",
+        "prefix": "SI"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32M8",
+        "customer_id": "32M8",
+        "address_id": "PT.EDS MANUFACTURING INDONESIA",
+        "prefix": "PM"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32N1",
+        "customer_id": "32N1",
+        "address_id": "YAZAKI INDIA PVT.LTD.",
+        "prefix": "TA"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32N2",
+        "customer_id": "32N2",
+        "address_id": "YAZAKI INDIA PVT. LTD",
+        "prefix": "YW"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32N3",
+        "customer_id": "32N3",
+        "address_id": "YAZAKI INDIA PVT.LTD.",
+        "prefix": "AB"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32P8",
+        "customer_id": "32P8",
+        "address_id": "YAZAKI-TORRES MANUFACTURING,INC.",
+        "prefix": "YI"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32Q8",
+        "customer_id": "32Q8",
+        "address_id": "EDS MANUFACTURING INCORPORATED",
+        "prefix": "EM"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32R4",
+        "customer_id": "32R4",
+        "address_id": "HANGZHOU YAZAKI PART CO.,LTD",
+        "prefix": "HY"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32R7",
+        "customer_id": "32R7",
+        "address_id": "YAZAKI (CHINA) INVESTMENT CORPORATION",
+        "prefix": "IV"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32R8",
+        "customer_id": "32R8",
+        "address_id": "TIANJIN YAZAKI AUTOMOTIVE PARTS CO.,LTD.",
+        "prefix": "TT"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32U5",
+        "customer_id": "32U5",
+        "address_id": "GRUPO YAZAKI S.A. DE C.V. (DDC)",
+        "prefix": "AS"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32W2",
+        "customer_id": "32W2",
+        "address_id": "HUA NAN YAZAKI (SHANTOU) AUTO PARTS CO., LTD",
+        "prefix": "HN"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4",
+        "address_id": "YAZAKI (HONG KONG) LIMITED",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32W4",
+        "customer_id": "32W41",
+        "address_id": "JOHOKU HAIPHONG CO., LTD THAIBINH BRANCH",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32W4",
+        "customer_id": "32W417",
+        "address_id": "APTIV MALAYSIA SDN. BHD.",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32W4",
+        "customer_id": "32W442",
+        "address_id": "APTIV COMPONENTS INDIA PRIVATE LTD.",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4A2",
+        "address_id": "APTIV COMPONENTS INDIA PRIVATE LTD.",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4K8",
+        "address_id": "PNA TECHNOLOGIES SDN BHD",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4N2",
+        "address_id": "APTIV ELECTRIC SYSTEMS CO., LTD JINGZHOU BRANCH",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32W6",
+        "customer_id": "32W6",
+        "address_id": "YUSEN LOGISTICS (HONG KONG) LTD",
+        "prefix": "SY"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32W7",
+        "customer_id": "32W7",
+        "address_id": "YUSEN LOGISTICS (HONG KONG) LTD",
+        "prefix": "SY"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32W9",
+        "customer_id": "32W9",
+        "address_id": "YAZAKI(HONG KONG)LIMITED",
+        "prefix": "HK"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32W9",
+        "customer_id": "32W93",
+        "address_id": "MOL LOGISTICS (HK) LTD..",
+        "prefix": "HK"
+    },
+    {
+        "profile_id": "00561",
+        "factory_id": "AW",
+        "affiliates_id": "32X5",
+        "customer_id": "32X5",
+        "address_id": "YAZAKI NORTH AMERICA",
+        "prefix": "EP"
+    },
+    {
+        "profile_id": "00566",
+        "factory_id": "INJ",
+        "affiliates_id": "1200",
+        "customer_id": "1200",
+        "address_id": "YAZAKI CORPORATION",
+        "prefix": "YC"
+    },
+    {
+        "profile_id": "00566",
+        "factory_id": "INJ",
+        "affiliates_id": "32EJ",
+        "customer_id": "32EJ",
+        "address_id": "YAZAKI CORPORATION KOREA BRANCH OFFICE",
+        "prefix": "EJ"
+    },
+    {
+        "profile_id": "00566",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4",
+        "address_id": "-",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00566",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W41",
+        "address_id": "JOHOKU HAIPHONG CO., LTD THAIBINH BRANCH",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00566",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W446",
+        "address_id": "APTIV ELECTRIC SYSTEMS CO., LTD",
+        "prefix": "HJ"
+    },
+    {
+        "profile_id": "00566",
+        "factory_id": "INJ",
+        "affiliates_id": "32W4",
+        "customer_id": "32W4K8",
+        "address_id": "-",
+        "prefix": "HJ"
+    }
+]

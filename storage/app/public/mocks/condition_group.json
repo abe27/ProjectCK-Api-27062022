@@ -1,0 +1,98 @@
+[
+    {
+        "order_zone_type_id": "DOMESTIC",
+        "name": "N",
+        "substr_digits": "0",
+        "description": "ALL"
+    },
+    {
+        "order_zone_type_id": "DOMESTIC",
+        "name": "F",
+        "substr_digits": "3",
+        "description": "First 3 substrings"
+    },
+    {
+        "order_zone_type_id": "DOMESTIC",
+        "name": "E",
+        "substr_digits": "3",
+        "description": "End 3 substrings"
+    },
+    {
+        "order_zone_type_id": "DOMESTIC",
+        "name": "S",
+        "substr_digits": "0",
+        "description": "Split Order"
+    },
+    {
+        "order_zone_type_id": "EXPORT",
+        "name": "N",
+        "substr_digits": "0",
+        "description": "ALL"
+    },
+    {
+        "order_zone_type_id": "EXPORT",
+        "name": "F",
+        "substr_digits": "3",
+        "description": "First 3 substrings"
+    },
+    {
+        "order_zone_type_id": "EXPORT",
+        "name": "E",
+        "substr_digits": "3",
+        "description": "End 3 substrings"
+    },
+    {
+        "order_zone_type_id": "EXPORT",
+        "name": "S",
+        "substr_digits": "0",
+        "description": "Split Order"
+    },
+    {
+        "order_zone_type_id": "NESC",
+        "name": "N",
+        "substr_digits": "0",
+        "description": "ALL"
+    },
+    {
+        "order_zone_type_id": "NESC",
+        "name": "F",
+        "substr_digits": "4",
+        "description": "First 4 substrings"
+    },
+    {
+        "order_zone_type_id": "NESC",
+        "name": "E",
+        "substr_digits": "3",
+        "description": "End 3 substrings"
+    },
+    {
+        "order_zone_type_id": "NESC",
+        "name": "S",
+        "substr_digits": "0",
+        "description": "Split Order"
+    },
+    {
+        "order_zone_type_id": "ICAM",
+        "name": "N",
+        "substr_digits": "0",
+        "description": "ALL"
+    },
+    {
+        "order_zone_type_id": "ICAM",
+        "name": "F",
+        "substr_digits": "4",
+        "description": "First 4 substrings"
+    },
+    {
+        "order_zone_type_id": "ICAM",
+        "name": "E",
+        "substr_digits": "3",
+        "description": "End 3 substrings"
+    },
+    {
+        "order_zone_type_id": "ICAM",
+        "name": "S",
+        "substr_digits": "0",
+        "description": "Split Order"
+    }
+]

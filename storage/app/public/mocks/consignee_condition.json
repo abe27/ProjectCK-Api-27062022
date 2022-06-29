@@ -1,0 +1,556 @@
+[
+    {
+        "empcode": "00523",
+        "cust_code": "32W2",
+        "condition": "E",
+        "sub_str": 3,
+        "string_sub": ["NHW", "HMW", "LMW", "WMW"],
+        "on_zone": [
+            {
+                "zone": "DOMESTIC",
+                "day": "Mon"
+            },
+            {
+                "zone": "EXPORT",
+                "day": "Mon"
+            },
+            {
+                "zone": "NESC",
+                "day": "Mon"
+            },
+            {
+                "zone": "ICAM",
+                "day": "-"
+            }
+        ],
+        "release_day": ["Tue", "Wed"]
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32P8",
+        "condition": "N",
+        "sub_str": 0,
+        "string_sub": [],
+        "on_zone": [
+            {
+                "zone": "DOMESTIC",
+                "day": "Mon"
+            },
+            {
+                "zone": "EXPORT",
+                "day": "Mon"
+            },
+            {
+                "zone": "NESC",
+                "day": "Mon"
+            },
+            {
+                "zone": "ICAM",
+                "day": "-"
+            }
+        ],
+        "release_day": ["Wed"]
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32G2",
+        "condition": "N",
+        "sub_str": 0,
+        "string_sub": [],
+        "on_zone": [
+            {
+                "zone": "DOMESTIC",
+                "day": "Tue"
+            },
+            {
+                "zone": "EXPORT",
+                "day": "Tue"
+            },
+            {
+                "zone": "NESC",
+                "day": "Mon"
+            },
+            {
+                "zone": "ICAM",
+                "day": "-"
+            }
+        ],
+        "release_day": ["Wed", "Thu"]
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32A7",
+        "condition": "N",
+        "sub_str": 0,
+        "string_sub": [],
+        "on_zone": [
+            {
+                "zone": "DOMESTIC",
+                "day": "Tue"
+            },
+            {
+                "zone": "EXPORT",
+                "day": "Tue"
+            },
+            {
+                "zone": "NESC",
+                "day": "Mon"
+            },
+            {
+                "zone": "ICAM",
+                "day": "-"
+            }
+        ],
+        "release_day": ["Wed"]
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32D4",
+        "condition": "N",
+        "sub_str": 0,
+        "string_sub": [],
+        "on_zone": [
+            {
+                "zone": "DOMESTIC",
+                "day": "Tue"
+            },
+            {
+                "zone": "EXPORT",
+                "day": "Tue"
+            },
+            {
+                "zone": "NESC",
+                "day": "Mon"
+            },
+            {
+                "zone": "ICAM",
+                "day": "-"
+            }
+        ],
+        "release_day": ["Wed"]
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32J1",
+        "condition": "N",
+        "sub_str": 0,
+        "string_sub": [],
+        "on_zone": [
+            {
+                "zone": "DOMESTIC",
+                "day": "Tue"
+            },
+            {
+                "zone": "EXPORT",
+                "day": "Tue"
+            },
+            {
+                "zone": "NESC",
+                "day": "Mon"
+            },
+            {
+                "zone": "ICAM",
+                "day": "-"
+            }
+        ],
+        "release_day": ["Wed"]
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32Y2",
+        "condition": "N",
+        "sub_str": 0,
+        "string_sub": [],
+        "on_zone": [
+            {
+                "zone": "DOMESTIC",
+                "day": "Wed"
+            },
+            {
+                "zone": "EXPORT",
+                "day": "Wed"
+            },
+            {
+                "zone": "NESC",
+                "day": "Mon"
+            },
+            {
+                "zone": "ICAM",
+                "day": "-"
+            }
+        ],
+        "release_day": ["Thu"]
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32DA",
+        "condition": "N",
+        "sub_str": 0,
+        "string_sub": [],
+        "on_zone": [
+            {
+                "zone": "DOMESTIC",
+                "day": "Wed"
+            },
+            {
+                "zone": "EXPORT",
+                "day": "Wed"
+            },
+            {
+                "zone": "NESC",
+                "day": "Mon"
+            },
+            {
+                "zone": "ICAM",
+                "day": "-"
+            }
+        ],
+        "release_day": ["Thu"]
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32DJ",
+        "condition": "N",
+        "sub_str": 0,
+        "string_sub": [],
+        "on_zone": [
+            {
+                "zone": "DOMESTIC",
+                "day": "Wed"
+            },
+            {
+                "zone": "EXPORT",
+                "day": "Wed"
+            },
+            {
+                "zone": "NESC",
+                "day": "Mon"
+            },
+            {
+                "zone": "ICAM",
+                "day": "-"
+            }
+        ],
+        "release_day": ["Thu"]
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32N1",
+        "condition": "F",
+        "sub_str": 3,
+        "string_sub": ["NST", "NTT", "FBK"],
+        "on_zone": [
+            {
+                "zone": "DOMESTIC",
+                "day": "Wed"
+            },
+            {
+                "zone": "EXPORT",
+                "day": "Wed"
+            },
+            {
+                "zone": "NESC",
+                "day": "Mon"
+            },
+            {
+                "zone": "ICAM",
+                "day": "-"
+            }
+        ],
+        "release_day": ["Thu"]
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32N3",
+        "condition": "N",
+        "sub_str": 0,
+        "string_sub": [],
+        "on_zone": [
+            {
+                "zone": "DOMESTIC",
+                "day": "Wed"
+            },
+            {
+                "zone": "EXPORT",
+                "day": "Wed"
+            },
+            {
+                "zone": "NESC",
+                "day": "Mon"
+            },
+            {
+                "zone": "ICAM",
+                "day": "-"
+            }
+        ],
+        "release_day": ["Thu", "Fri"]
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32CJ",
+        "condition": "N",
+        "sub_str": 0,
+        "string_sub": [],
+        "on_zone": [
+            {
+                "zone": "DOMESTIC",
+                "day": "Thu"
+            },
+            {
+                "zone": "EXPORT",
+                "day": "Thu"
+            },
+            {
+                "zone": "NESC",
+                "day": "Mon"
+            },
+            {
+                "zone": "ICAM",
+                "day": "-"
+            }
+        ],
+        "release_day": ["Fri"]
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32AF",
+        "condition": "N",
+        "sub_str": 0,
+        "string_sub": [],
+        "on_zone": [
+            {
+                "zone": "DOMESTIC",
+                "day": "Thu"
+            },
+            {
+                "zone": "EXPORT",
+                "day": "Thu"
+            },
+            {
+                "zone": "NESC",
+                "day": "Mon"
+            },
+            {
+                "zone": "ICAM",
+                "day": "-"
+            }
+        ],
+        "release_day": ["Fri"]
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32H2",
+        "condition": "N",
+        "substr": 0,
+        "string_sub": "",
+        "on_day": "",
+        "on_zone": ""
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32U3",
+        "condition": "N",
+        "substr": 0,
+        "string_sub": "",
+        "on_day": "",
+        "on_zone": ""
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32X5",
+        "condition": "N",
+        "substr": 0,
+        "string_sub": "",
+        "on_day": "",
+        "on_zone": ""
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32U9",
+        "condition": "N",
+        "substr": 0,
+        "string_sub": "",
+        "on_day": "",
+        "on_zone": ""
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32B1",
+        "condition": "N",
+        "substr": 0,
+        "string_sub": "",
+        "on_day": "",
+        "on_zone": ""
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32B6",
+        "condition": "N",
+        "substr": 0,
+        "string_sub": "",
+        "on_day": "",
+        "on_zone": ""
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32B7",
+        "condition": "N",
+        "substr": 0,
+        "string_sub": "",
+        "on_day": "",
+        "on_zone": ""
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32U5",
+        "condition": "N",
+        "substr": 0,
+        "string_sub": "",
+        "on_day": "",
+        "on_zone": ""
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32K8",
+        "condition": "N",
+        "substr": 0,
+        "string_sub": "",
+        "on_day": "",
+        "on_zone": ""
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32H8",
+        "condition": "N",
+        "substr": 0,
+        "string_sub": "",
+        "on_day": "",
+        "on_zone": ""
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32G9",
+        "condition": "N",
+        "substr": 0,
+        "string_sub": "",
+        "on_day": "",
+        "on_zone": ""
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32H7",
+        "condition": "N",
+        "substr": 0,
+        "string_sub": "",
+        "on_day": "",
+        "on_zone": ""
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32AG",
+        "condition": "N",
+        "substr": 0,
+        "string_sub": "",
+        "on_day": "",
+        "on_zone": ""
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32R7",
+        "condition": "N",
+        "substr": 0,
+        "string_sub": "",
+        "on_day": "",
+        "on_zone": ""
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32Y5",
+        "condition": "N",
+        "substr": 0,
+        "string_sub": "",
+        "on_day": "",
+        "on_zone": ""
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32Y6",
+        "condition": "N",
+        "substr": 0,
+        "string_sub": "",
+        "on_day": "",
+        "on_zone": ""
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32Y4",
+        "condition": "N",
+        "substr": 0,
+        "string_sub": "",
+        "on_day": "",
+        "on_zone": ""
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32CC",
+        "condition": "N",
+        "substr": 0,
+        "string_sub": "",
+        "on_day": "",
+        "on_zone": ""
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32E1",
+        "condition": "N",
+        "substr": 0,
+        "string_sub": "",
+        "on_day": "",
+        "on_zone": ""
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32E2",
+        "condition": "N",
+        "substr": 0,
+        "string_sub": "",
+        "on_day": "",
+        "on_zone": ""
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32Y5",
+        "condition": "N",
+        "substr": 0,
+        "string_sub": "",
+        "on_day": "",
+        "on_zone": ""
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32CJ",
+        "condition": "N",
+        "substr": 0,
+        "string_sub": "",
+        "on_day": "",
+        "on_zone": ""
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32AF",
+        "condition": "N",
+        "substr": 0,
+        "string_sub": "",
+        "on_day": "",
+        "on_zone": ""
+    },
+    {
+        "empcode": "00523",
+        "cust_code": "32H2",
+        "condition": "N",
+        "substr": 0,
+        "string_sub": "",
+        "on_day": "",
+        "on_zone": ""
+    }
+]

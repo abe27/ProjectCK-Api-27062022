@@ -28,8 +28,8 @@ return new class extends Migration
             $table->integer('running_seq');
             $table->date('ship_date');
             $table->char('ship_from_id', 36)->nullable();
-            $table->string('ship_via');
-            $table->string('ship_der');
+            $table->string('ship_via')->nullable()->default('-');
+            $table->string('ship_der')->nullable()->default('-');
             $table->char('title_id', 36)->nullable();
             $table->char('loading_area_id', 36)->nullable();
             $table->string('privilege');
@@ -38,6 +38,7 @@ return new class extends Migration
             $table->string('references_id', 25);
             $table->enum('resend_gedi', ['-', 'R'])->nullable()->default('-');
             $table->boolean('is_completed')->nullable()->default(false);
+            $table->boolean('is_wait_send')->nullable()->default(false);
             $table->boolean('is_active')->nullable()->default(false);
             $table->timestamps();
             $table->foreign('order_id')->references('id')->on('orders')->cascadeOnDelete();

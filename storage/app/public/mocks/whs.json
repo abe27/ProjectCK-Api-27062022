@@ -5,6 +5,11 @@
         "type": "-"
     },
     {
+        "name": "CENTER",
+        "description": "CENTER",
+        "type": "-"
+    },
+    {
         "name": "RMW",
         "description": "K.39",
         "type": "DOMESTIC"
@@ -13,6 +18,11 @@
         "name": "FG",
         "description": "FG",
         "type": "DOMESTIC"
+    },
+    {
+        "name": "CK",
+        "description": "CK Bang Khla",
+        "type": "-"
     },
     {
         "name": "DOMESTIC",
