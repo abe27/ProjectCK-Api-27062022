@@ -27,7 +27,7 @@ class InvoiceLoadingSeeder extends Seeder
         ### start loop
         foreach ($data as $r) {
             $w = Whs::where('name', $r->zone)->first();
-            $s = ShippingType::where('shipping', $r->shipping)->first();
+            $s = ShippingType::where('name', $r->shipping)->first();
             $f = Factory::where('name', $r->factory)->first();
 
             $inv = new InvoiceLoading();
