@@ -13,6 +13,14 @@ return new class extends Migration
      */
     public function up()
     {
+        // 'N' = None,
+        // 'J' = JobList,
+        // 'P' = Set Pallet,
+        // 'D' = Set Part Pallet,Dimension
+        // 'C' = Set Container,
+        // 'L' = Loading,
+        // 'S' = Success,
+        // 'H' = Holding
         Schema::create('invoices', function (Blueprint $table) {
             $table->char('id', 36)->primary();
             $table->char('order_id', 36);
@@ -23,17 +31,9 @@ return new class extends Migration
             $table->string('ship_via');
             $table->string('ship_der');
             $table->char('title_id', 36)->nullable();
-            $table->string('loading_area');
+            $table->char('loading_area_id', 36)->nullable();
             $table->string('privilege');
             $table->string('zone_code', 10);
-            // 'N' = None,
-            // 'J' = JobList,
-            // 'P' = Set Pallet,
-            // 'D' = Set Part Pallet,Dimension
-            // 'C' = Set Container,
-            // 'L' = Loading,
-            // 'S' = Success,
-            // 'H' = Holding
             $table->enum('invoice_status', ['N','J','P','D', 'C','L','S','H'])->nullable()->default('N');
             $table->string('references_id', 25);
             $table->enum('resend_gedi', ['-', 'R'])->nullable()->default('-');
@@ -43,6 +43,7 @@ return new class extends Migration
             $table->foreign('order_id')->references('id')->on('orders')->cascadeOnDelete();
             $table->foreign('ship_from_id')->references('id')->on('whs')->nullOnDelete();
             $table->foreign('title_id')->references('id')->on('invoice_titles')->nullOnDelete();
+            $table->foreign('loading_area_id')->references('id')->on('invoice_loadings')->nullOnDelete();
         });
     }
 

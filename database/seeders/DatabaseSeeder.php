@@ -47,6 +47,7 @@ class DatabaseSeeder extends Seeder
         $this->call(PalletPlacingTypeSeeder::class);
         $this->call(FticketSeqSeeder::class);
         $this->call(InvoiceTitleSeeder::class);
+        $this->call(InvoiceLoadingSeeder::class);
         $this->call(OrderZoneTypeSeeder::class);
         $this->call(OrderTypeSeeder::class);
         $this->call(ReviseTypeSeeder::class);

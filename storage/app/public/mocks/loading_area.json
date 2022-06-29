@@ -1,0 +1,86 @@
+[
+    {
+        "factory": "INJ",
+        "zone": "DOMESTIC",
+        "shipping": "A",
+        "loading_area": "DOMESTIC",
+        "is_active": true
+    },
+    {
+        "factory": "INJ",
+        "zone": "DOMESTIC",
+        "shipping": "B",
+        "loading_area": "DOMESTIC",
+        "is_active": true
+    },
+    {
+        "factory": "INJ",
+        "zone": "DOMESTIC",
+        "shipping": "T",
+        "loading_area": "DOMESTIC",
+        "is_active": true
+    },
+    {
+        "factory": "INJ",
+        "zone": "EXPORT",
+        "shipping": "A",
+        "loading_area": "BONDED",
+        "is_active": true
+    },
+    {
+        "factory": "INJ",
+        "zone": "EXPORT",
+        "shipping": "B",
+        "loading_area": "BONDED",
+        "is_active": true
+    },
+    {
+        "factory": "INJ",
+        "zone": "EXPORT",
+        "shipping": "T",
+        "loading_area": "BONDED",
+        "is_active": true
+    },
+    {
+        "factory": "INJ",
+        "zone": "NESC",
+        "shipping": "A",
+        "loading_area": "-",
+        "is_active": true
+    },
+    {
+        "factory": "INJ",
+        "zone": "NESC",
+        "shipping": "B",
+        "loading_area": "-",
+        "is_active": true
+    },
+    {
+        "factory": "INJ",
+        "zone": "NESC",
+        "shipping": "T",
+        "loading_area": "-",
+        "is_active": true
+    },
+    {
+        "factory": "INJ",
+        "zone": "ICAM",
+        "shipping": "A",
+        "loading_area": "BONDED",
+        "is_active": true
+    },
+    {
+        "factory": "INJ",
+        "zone": "ICAM",
+        "shipping": "B",
+        "loading_area": "BONDED",
+        "is_active": true
+    },
+    {
+        "factory": "INJ",
+        "zone": "ICAM",
+        "shipping": "T",
+        "loading_area": "-",
+        "is_active": true
+    }
+]
