@@ -4,7 +4,35 @@
         "description": "-"
     },
     {
-        "name": "-",
+        "name": "All",
+        "description": "-"
+    },
+    {
+        "name": "Mon",
+        "description": "-"
+    },
+    {
+        "name": "Tue",
+        "description": "-"
+    },
+    {
+        "name": "Wed",
+        "description": "-"
+    },
+    {
+        "name": "Thu",
+        "description": "-"
+    },
+    {
+        "name": "Fri",
+        "description": "-"
+    },
+    {
+        "name": "Sat",
+        "description": "-"
+    },
+    {
+        "name": "Sun",
         "description": "-"
     }
 ]
