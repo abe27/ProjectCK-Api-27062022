@@ -1,5 +1,6 @@
 [
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32W2",
         "condition": "E",
@@ -39,6 +40,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32P8",
         "condition": "N",
@@ -78,6 +80,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32G2",
         "condition": "N",
@@ -117,6 +120,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32A7",
         "condition": "N",
@@ -156,6 +160,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32D4",
         "condition": "N",
@@ -195,6 +200,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32J1",
         "condition": "N",
@@ -234,6 +240,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32Y2",
         "condition": "N",
@@ -273,6 +280,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32DA",
         "condition": "N",
@@ -312,6 +320,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32DJ",
         "condition": "N",
@@ -351,6 +360,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32N1",
         "condition": "F",
@@ -400,6 +410,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32N3",
         "condition": "N",
@@ -439,6 +450,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32CJ",
         "condition": "F",
@@ -478,6 +490,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32AF",
         "condition": "F",
@@ -517,6 +530,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32H2",
         "condition": "F",
@@ -556,6 +570,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32U3",
         "condition": "N",
@@ -595,6 +610,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32X5",
         "condition": "N",
@@ -634,6 +650,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32U9",
         "condition": "N",
@@ -673,6 +690,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32B1",
         "condition": "N",
@@ -712,6 +730,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32B6",
         "condition": "N",
@@ -751,6 +770,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32B7",
         "condition": "N",
@@ -790,6 +810,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32U5",
         "condition": "N",
@@ -829,6 +850,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32K8",
         "condition": "N",
@@ -868,6 +890,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32H8",
         "condition": "N",
@@ -907,6 +930,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32G9",
         "condition": "N",
@@ -946,6 +970,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32H7",
         "condition": "E",
@@ -985,6 +1010,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32AG",
         "condition": "N",
@@ -1024,6 +1050,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32R7",
         "condition": "N",
@@ -1063,6 +1090,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32Y5",
         "condition": "N",
@@ -1102,6 +1130,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32Y6",
         "condition": "N",
@@ -1141,6 +1170,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32Y4",
         "condition": "N",
@@ -1180,6 +1210,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32CC",
         "condition": "N",
@@ -1219,6 +1250,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32E1",
         "condition": "N",
@@ -1258,6 +1290,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32E2",
         "condition": "N",
@@ -1297,6 +1330,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32Y5",
         "condition": "N",
@@ -1336,6 +1370,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32CJ",
         "condition": "N",
@@ -1375,6 +1410,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32AF",
         "condition": "N",
@@ -1414,6 +1450,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00523",
         "cust_code": "32H2",
         "condition": "N",
@@ -1453,6 +1490,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32EJ",
         "condition": "N",
@@ -1492,6 +1530,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "1200",
         "condition": "N",
@@ -1531,6 +1570,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4",
         "condition": "N",
@@ -1570,6 +1610,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W41",
         "condition": "N",
@@ -1609,6 +1650,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W414",
         "condition": "N",
@@ -1648,6 +1690,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W416",
         "condition": "N",
@@ -1687,6 +1730,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W417",
         "condition": "N",
@@ -1726,6 +1770,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W418",
         "condition": "N",
@@ -1765,6 +1810,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W419",
         "condition": "N",
@@ -1804,6 +1850,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W42",
         "condition": "N",
@@ -1843,6 +1890,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W420",
         "condition": "N",
@@ -1882,6 +1930,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W421",
         "condition": "N",
@@ -1921,6 +1970,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W422",
         "condition": "N",
@@ -1960,6 +2010,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W423",
         "condition": "N",
@@ -1999,6 +2050,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W424",
         "condition": "N",
@@ -2038,6 +2090,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W425",
         "condition": "N",
@@ -2077,6 +2130,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W426",
         "condition": "N",
@@ -2116,6 +2170,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W428",
         "condition": "N",
@@ -2155,6 +2210,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W43",
         "condition": "N",
@@ -2194,6 +2250,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W430",
         "condition": "N",
@@ -2233,6 +2290,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W432",
         "condition": "N",
@@ -2272,6 +2330,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W433",
         "condition": "N",
@@ -2311,6 +2370,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W434",
         "condition": "N",
@@ -2350,6 +2410,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W437",
         "condition": "N",
@@ -2389,6 +2450,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W44",
         "condition": "N",
@@ -2428,6 +2490,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W442",
         "condition": "N",
@@ -2467,6 +2530,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W446",
         "condition": "N",
@@ -2506,6 +2570,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W448",
         "condition": "N",
@@ -2545,6 +2610,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W449",
         "condition": "N",
@@ -2584,6 +2650,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W45",
         "condition": "N",
@@ -2623,6 +2690,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W451",
         "condition": "N",
@@ -2662,6 +2730,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W452",
         "condition": "N",
@@ -2701,6 +2770,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W455",
         "condition": "N",
@@ -2740,6 +2810,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W456",
         "condition": "N",
@@ -2779,6 +2850,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W458",
         "condition": "N",
@@ -2818,6 +2890,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W459",
         "condition": "N",
@@ -2857,6 +2930,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W46",
         "condition": "N",
@@ -2896,6 +2970,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W460",
         "condition": "N",
@@ -2935,6 +3010,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W462",
         "condition": "N",
@@ -2974,6 +3050,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W463",
         "condition": "N",
@@ -3013,6 +3090,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W465",
         "condition": "N",
@@ -3052,6 +3130,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W466",
         "condition": "N",
@@ -3091,6 +3170,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W467",
         "condition": "N",
@@ -3130,6 +3210,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W468",
         "condition": "N",
@@ -3169,6 +3250,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W473",
         "condition": "N",
@@ -3208,6 +3290,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W475",
         "condition": "N",
@@ -3247,6 +3330,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W476",
         "condition": "N",
@@ -3286,6 +3370,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W48",
         "condition": "N",
@@ -3325,6 +3410,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W480",
         "condition": "N",
@@ -3364,6 +3450,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W481",
         "condition": "N",
@@ -3403,6 +3490,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W483",
         "condition": "N",
@@ -3442,6 +3530,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W49",
         "condition": "N",
@@ -3481,6 +3570,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W496",
         "condition": "N",
@@ -3520,6 +3610,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4A2",
         "condition": "N",
@@ -3559,6 +3650,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4A6",
         "condition": "N",
@@ -3598,6 +3690,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4B7",
         "condition": "N",
@@ -3637,6 +3730,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4B9",
         "condition": "N",
@@ -3676,6 +3770,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4C8",
         "condition": "N",
@@ -3715,6 +3810,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4D3",
         "condition": "N",
@@ -3754,6 +3850,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4D4",
         "condition": "N",
@@ -3793,6 +3890,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4E3",
         "condition": "N",
@@ -3832,6 +3930,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4F3",
         "condition": "N",
@@ -3871,6 +3970,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4G3",
         "condition": "N",
@@ -3910,6 +4010,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4G5",
         "condition": "N",
@@ -3949,6 +4050,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4G7",
         "condition": "N",
@@ -3988,6 +4090,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4G9",
         "condition": "N",
@@ -4027,6 +4130,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4H3",
         "condition": "N",
@@ -4066,6 +4170,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4J2",
         "condition": "N",
@@ -4105,6 +4210,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4J8",
         "condition": "N",
@@ -4144,6 +4250,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4J9",
         "condition": "N",
@@ -4183,6 +4290,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4K6",
         "condition": "N",
@@ -4222,6 +4330,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4K8",
         "condition": "N",
@@ -4261,6 +4370,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4K9",
         "condition": "N",
@@ -4300,6 +4410,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4L1",
         "condition": "N",
@@ -4339,6 +4450,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4L3",
         "condition": "N",
@@ -4378,6 +4490,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4L6",
         "condition": "N",
@@ -4417,6 +4530,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4L7",
         "condition": "N",
@@ -4456,6 +4570,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4L8",
         "condition": "N",
@@ -4495,6 +4610,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4L9",
         "condition": "N",
@@ -4534,6 +4650,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4M2",
         "condition": "N",
@@ -4573,6 +4690,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4M4",
         "condition": "N",
@@ -4612,6 +4730,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4M5",
         "condition": "N",
@@ -4651,6 +4770,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4M6",
         "condition": "N",
@@ -4690,6 +4810,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4M7",
         "condition": "N",
@@ -4729,6 +4850,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4M9",
         "condition": "N",
@@ -4768,6 +4890,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4N2",
         "condition": "N",
@@ -4807,6 +4930,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4N4",
         "condition": "N",
@@ -4846,6 +4970,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4N6",
         "condition": "N",
@@ -4885,6 +5010,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4N7",
         "condition": "N",
@@ -4924,6 +5050,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4N8",
         "condition": "N",
@@ -4963,6 +5090,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4O1",
         "condition": "N",
@@ -5002,6 +5130,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4O2",
         "condition": "N",
@@ -5041,6 +5170,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4O3",
         "condition": "N",
@@ -5080,6 +5210,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4O6",
         "condition": "N",
@@ -5119,6 +5250,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4O7",
         "condition": "N",
@@ -5158,6 +5290,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4O8",
         "condition": "N",
@@ -5197,6 +5330,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4P6",
         "condition": "N",
@@ -5236,6 +5370,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4P7",
         "condition": "N",
@@ -5275,6 +5410,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00566",
         "cust_code": "32W4P8",
         "condition": "N",
@@ -5314,6 +5450,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32Y1",
         "condition": "N",
@@ -5322,193 +5459,198 @@
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Mon"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Mon"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Mon"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "Mon"
             }
         ],
         "release_day": [
             {
-                "day": "Thu",
+                "day": "Mon",
                 "zone": "MIX LOAD"
             },
             {
-                "day": "Thu",
+                "day": "Mon",
                 "zone": "NESC"
             },
             {
-                "day": "Thu",
+                "day": "Mon",
                 "zone": "LCL"
             }
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32BF",
-        "condition": "N",
+        "condition": "S",
         "sub_str": 0,
         "string_sub": [],
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Mon"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Mon"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Mon"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
             {
-                "day": "Thu",
+                "day": "Tue",
                 "zone": "MIX LOAD"
             },
             {
-                "day": "Thu",
+                "day": "Tue",
                 "zone": "NESC"
             },
             {
-                "day": "Thu",
+                "day": "Tue",
                 "zone": "LCL"
             }
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32H0",
-        "condition": "N",
+        "condition": "S",
         "sub_str": 0,
         "string_sub": [],
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Mon"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Mon"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Mon"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
             {
-                "day": "Thu",
+                "day": "Tue",
                 "zone": "MIX LOAD"
             },
             {
-                "day": "Thu",
+                "day": "Tue",
                 "zone": "NESC"
             },
             {
-                "day": "Thu",
+                "day": "Tue",
                 "zone": "LCL"
             }
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32G0",
-        "condition": "N",
+        "condition": "S",
         "sub_str": 0,
         "string_sub": [],
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Mon"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Mon"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Mon"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
             {
-                "day": "Thu",
+                "day": "Tue",
                 "zone": "MIX LOAD"
             },
             {
-                "day": "Thu",
+                "day": "Tue",
                 "zone": "NESC"
             },
             {
-                "day": "Thu",
+                "day": "Tue",
                 "zone": "LCL"
             }
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32R8",
-        "condition": "N",
+        "condition": "S",
         "sub_str": 0,
         "string_sub": [],
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Mon"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Mon"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Mon"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
             {
-                "day": "Thu",
+                "day": "Tue",
                 "zone": "MIX LOAD"
             },
             {
-                "day": "Thu",
+                "day": "Tue",
                 "zone": "NESC"
             },
             {
-                "day": "Thu",
+                "day": "Tue",
                 "zone": "LCL"
             }
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32W9",
         "condition": "N",
@@ -5517,37 +5659,198 @@
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Mon"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Mon"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Mon"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
             {
-                "day": "Thu",
+                "day": "Tue",
                 "zone": "MIX LOAD"
             },
             {
-                "day": "Thu",
+                "day": "Tue",
                 "zone": "NESC"
             },
             {
-                "day": "Thu",
+                "day": "Tue",
                 "zone": "LCL"
             }
         ]
     },
     {
+        "factory": "INJ",
+        "empcode": "00534",
+        "cust_code": "32W910",
+        "condition": "N",
+        "sub_str": 0,
+        "string_sub": [],
+        "on_zone": [
+            {
+                "zone": "DOMESTIC",
+                "day": "Mon"
+            },
+            {
+                "zone": "EXPORT",
+                "day": "Mon"
+            },
+            {
+                "zone": "NESC",
+                "day": "Mon"
+            },
+            {
+                "zone": "ICAM",
+                "day": "-"
+            }
+        ],
+        "release_day": [
+            {
+                "day": "Tue",
+                "zone": "MIX LOAD"
+            },
+            {
+                "day": "Tue",
+                "zone": "NESC"
+            },
+            {
+                "day": "Tue",
+                "zone": "LCL"
+            }
+        ]
+    },
+    {
+        "factory": "INJ",
+        "empcode": "00534",
+        "cust_code": "32W915",
+        "condition": "N",
+        "sub_str": 0,
+        "string_sub": [],
+        "on_zone": [
+            {
+                "zone": "DOMESTIC",
+                "day": "Mon"
+            },
+            {
+                "zone": "EXPORT",
+                "day": "Mon"
+            },
+            {
+                "zone": "NESC",
+                "day": "Mon"
+            },
+            {
+                "zone": "ICAM",
+                "day": "-"
+            }
+        ],
+        "release_day": [
+            {
+                "day": "Tue",
+                "zone": "MIX LOAD"
+            },
+            {
+                "day": "Tue",
+                "zone": "NESC"
+            },
+            {
+                "day": "Tue",
+                "zone": "LCL"
+            }
+        ]
+    },
+    {
+        "factory": "INJ",
+        "empcode": "00534",
+        "cust_code": "32W917",
+        "condition": "N",
+        "sub_str": 0,
+        "string_sub": [],
+        "on_zone": [
+            {
+                "zone": "DOMESTIC",
+                "day": "Mon"
+            },
+            {
+                "zone": "EXPORT",
+                "day": "Mon"
+            },
+            {
+                "zone": "NESC",
+                "day": "Mon"
+            },
+            {
+                "zone": "ICAM",
+                "day": "-"
+            }
+        ],
+        "release_day": [
+            {
+                "day": "Tue",
+                "zone": "MIX LOAD"
+            },
+            {
+                "day": "Tue",
+                "zone": "NESC"
+            },
+            {
+                "day": "Tue",
+                "zone": "LCL"
+            }
+        ]
+    },
+    {
+        "factory": "INJ",
+        "empcode": "00534",
+        "cust_code": "32W922",
+        "condition": "N",
+        "sub_str": 0,
+        "string_sub": [],
+        "on_zone": [
+            {
+                "zone": "DOMESTIC",
+                "day": "Mon"
+            },
+            {
+                "zone": "EXPORT",
+                "day": "Mon"
+            },
+            {
+                "zone": "NESC",
+                "day": "Mon"
+            },
+            {
+                "zone": "ICAM",
+                "day": "-"
+            }
+        ],
+        "release_day": [
+            {
+                "day": "Tue",
+                "zone": "MIX LOAD"
+            },
+            {
+                "day": "Tue",
+                "zone": "NESC"
+            },
+            {
+                "day": "Tue",
+                "zone": "LCL"
+            }
+        ]
+    },
+    {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32W93",
         "condition": "N",
@@ -5556,37 +5859,118 @@
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Mon"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Mon"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Mon"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
             {
-                "day": "Thu",
+                "day": "Tue",
                 "zone": "MIX LOAD"
             },
             {
-                "day": "Thu",
+                "day": "Tue",
                 "zone": "NESC"
             },
             {
-                "day": "Thu",
+                "day": "Tue",
                 "zone": "LCL"
             }
         ]
     },
     {
+        "factory": "INJ",
+        "empcode": "00534",
+        "cust_code": "32W94",
+        "condition": "N",
+        "sub_str": 0,
+        "string_sub": [],
+        "on_zone": [
+            {
+                "zone": "DOMESTIC",
+                "day": "Mon"
+            },
+            {
+                "zone": "EXPORT",
+                "day": "Mon"
+            },
+            {
+                "zone": "NESC",
+                "day": "Mon"
+            },
+            {
+                "zone": "ICAM",
+                "day": "-"
+            }
+        ],
+        "release_day": [
+            {
+                "day": "Tue",
+                "zone": "MIX LOAD"
+            },
+            {
+                "day": "Tue",
+                "zone": "NESC"
+            },
+            {
+                "day": "Tue",
+                "zone": "LCL"
+            }
+        ]
+    },
+    {
+        "factory": "INJ",
+        "empcode": "00534",
+        "cust_code": "32W95",
+        "condition": "N",
+        "sub_str": 0,
+        "string_sub": [],
+        "on_zone": [
+            {
+                "zone": "DOMESTIC",
+                "day": "Mon"
+            },
+            {
+                "zone": "EXPORT",
+                "day": "Mon"
+            },
+            {
+                "zone": "NESC",
+                "day": "Mon"
+            },
+            {
+                "zone": "ICAM",
+                "day": "-"
+            }
+        ],
+        "release_day": [
+            {
+                "day": "Tue",
+                "zone": "MIX LOAD"
+            },
+            {
+                "day": "Tue",
+                "zone": "NESC"
+            },
+            {
+                "day": "Tue",
+                "zone": "LCL"
+            }
+        ]
+    },
+    {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32Q8",
         "condition": "N",
@@ -5595,37 +5979,38 @@
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Mon"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
             {
-                "day": "Thu",
+                "day": "Wed",
                 "zone": "MIX LOAD"
             },
             {
-                "day": "Thu",
+                "day": "Wed",
                 "zone": "NESC"
             },
             {
-                "day": "Thu",
+                "day": "Wed",
                 "zone": "LCL"
             }
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32M8",
         "condition": "N",
@@ -5634,28 +6019,28 @@
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Mon"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
             {
-                "day": "Thu",
+                "day": "Wed",
                 "zone": "MIX LOAD"
             },
             {
-                "day": "Thu",
+                "day": "Wed",
                 "zone": "NESC"
             },
             {
@@ -5665,6 +6050,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32D1",
         "condition": "N",
@@ -5673,37 +6059,38 @@
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Mon"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
             {
-                "day": "Thu",
+                "day": "Wed",
                 "zone": "MIX LOAD"
             },
             {
-                "day": "Thu",
+                "day": "Wed",
                 "zone": "NESC"
             },
             {
-                "day": "Thu",
+                "day": "Wed",
                 "zone": "LCL"
             }
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32D2",
         "condition": "N",
@@ -5712,58 +6099,59 @@
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Mon"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
             {
-                "day": "Thu",
+                "day": "Wed",
                 "zone": "MIX LOAD"
             },
             {
-                "day": "Thu",
+                "day": "Wed",
                 "zone": "NESC"
             },
             {
-                "day": "Thu",
+                "day": "Wed",
                 "zone": "LCL"
             }
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32W6",
-        "condition": "N",
+        "condition": "S",
         "sub_str": 0,
         "string_sub": [],
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Mon"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
@@ -5776,33 +6164,34 @@
                 "zone": "NESC"
             },
             {
-                "day": "Thu",
+                "day": "Wed",
                 "zone": "LCL"
             }
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32W7",
-        "condition": "N",
+        "condition": "S",
         "sub_str": 0,
         "string_sub": [],
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Mon"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
@@ -5815,12 +6204,13 @@
                 "zone": "NESC"
             },
             {
-                "day": "Thu",
+                "day": "Wed",
                 "zone": "LCL"
             }
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32Y8",
         "condition": "N",
@@ -5829,58 +6219,59 @@
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Mon"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
             {
-                "day": "Thu",
+                "day": "Wed",
                 "zone": "MIX LOAD"
             },
             {
-                "day": "Thu",
+                "day": "Wed",
                 "zone": "NESC"
             },
             {
-                "day": "Thu",
+                "day": "Wed",
                 "zone": "LCL"
             }
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32BG",
-        "condition": "N",
+        "condition": "S",
         "sub_str": 0,
         "string_sub": [],
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Wed"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Wed"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
@@ -5899,27 +6290,28 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32R1",
-        "condition": "N",
+        "condition": "S",
         "sub_str": 0,
         "string_sub": [],
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Wed"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Wed"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
@@ -5938,6 +6330,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32G7",
         "condition": "N",
@@ -5946,19 +6339,19 @@
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Wed"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Wed"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
@@ -5977,6 +6370,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32M3",
         "condition": "N",
@@ -5985,19 +6379,19 @@
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Wed"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Wed"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
@@ -6016,6 +6410,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32M4",
         "condition": "N",
@@ -6024,19 +6419,19 @@
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Wed"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Wed"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
@@ -6055,6 +6450,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32DG",
         "condition": "N",
@@ -6063,19 +6459,19 @@
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Wed"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Wed"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
@@ -6094,6 +6490,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32CH",
         "condition": "N",
@@ -6102,19 +6499,19 @@
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Wed"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Wed"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
@@ -6133,6 +6530,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32DE",
         "condition": "N",
@@ -6141,24 +6539,24 @@
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Thu"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Thu"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
             {
-                "day": "Thu",
+                "day": "Fri",
                 "zone": "MIX LOAD"
             },
             {
@@ -6172,6 +6570,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32M1",
         "condition": "N",
@@ -6180,24 +6579,24 @@
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Thu"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Thu"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
             {
-                "day": "Thu",
+                "day": "Fri",
                 "zone": "MIX LOAD"
             },
             {
@@ -6211,6 +6610,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32N2",
         "condition": "N",
@@ -6219,37 +6619,38 @@
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Thu"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Thu"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
             {
-                "day": "Thu",
+                "day": "Fri",
                 "zone": "MIX LOAD"
             },
             {
-                "day": "Thu",
+                "day": "Fri",
                 "zone": "NESC"
             },
             {
-                "day": "Thu",
+                "day": "Fri",
                 "zone": "LCL"
             }
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32G8",
         "condition": "N",
@@ -6258,24 +6659,24 @@
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
             {
-                "day": "Thu",
+                "day": "Wed",
                 "zone": "MIX LOAD"
             },
             {
@@ -6289,6 +6690,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32CG",
         "condition": "N",
@@ -6297,63 +6699,64 @@
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Thu"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Thu"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
             {
-                "day": "Thu",
+                "day": "-",
                 "zone": "MIX LOAD"
             },
             {
-                "day": "Thu",
+                "day": "Wed",
                 "zone": "NESC"
             },
             {
-                "day": "Thu",
+                "day": "Wed",
                 "zone": "LCL"
             }
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32R4",
-        "condition": "N",
+        "condition": "S",
         "sub_str": 0,
         "string_sub": [],
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
             {
-                "day": "Thu",
+                "day": "-",
                 "zone": "MIX LOAD"
             },
             {
@@ -6367,6 +6770,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32D9",
         "condition": "N",
@@ -6375,24 +6779,24 @@
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Wed"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Wed"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
             {
-                "day": "Thu",
+                "day": "-",
                 "zone": "MIX LOAD"
             },
             {
@@ -6406,6 +6810,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32CA",
         "condition": "N",
@@ -6414,24 +6819,24 @@
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "Wed"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "Wed"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
             {
-                "day": "Thu",
+                "day": "-",
                 "zone": "MIX LOAD"
             },
             {
@@ -6445,6 +6850,7 @@
         ]
     },
     {
+        "factory": "INJ",
         "empcode": "00534",
         "cust_code": "32DE",
         "condition": "N",
@@ -6453,71 +6859,32 @@
         "on_zone": [
             {
                 "zone": "DOMESTIC",
-                "day": "All"
+                "day": "-"
             },
             {
                 "zone": "EXPORT",
-                "day": "All"
+                "day": "-"
             },
             {
                 "zone": "NESC",
-                "day": "All"
+                "day": "Tue"
             },
             {
                 "zone": "ICAM",
-                "day": "All"
+                "day": "-"
             }
         ],
         "release_day": [
             {
-                "day": "Thu",
+                "day": "-",
                 "zone": "MIX LOAD"
             },
             {
-                "day": "Thu",
+                "day": "Fri",
                 "zone": "NESC"
             },
             {
-                "day": "Thu",
-                "zone": "LCL"
-            }
-        ]
-    },
-    {
-        "empcode": "00534",
-        "cust_code": "32M1",
-        "condition": "N",
-        "sub_str": 0,
-        "string_sub": [],
-        "on_zone": [
-            {
-                "zone": "DOMESTIC",
-                "day": "All"
-            },
-            {
-                "zone": "EXPORT",
-                "day": "All"
-            },
-            {
-                "zone": "NESC",
-                "day": "All"
-            },
-            {
-                "zone": "ICAM",
-                "day": "All"
-            }
-        ],
-        "release_day": [
-            {
-                "day": "Thu",
-                "zone": "MIX LOAD"
-            },
-            {
-                "day": "Thu",
-                "zone": "NESC"
-            },
-            {
-                "day": "Thu",
+                "day": "Fri",
                 "zone": "LCL"
             }
         ]

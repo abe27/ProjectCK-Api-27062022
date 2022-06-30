@@ -20,7 +20,7 @@ class ConsigneeConditionSeeder extends Seeder
         $data = json_decode($json);
         ### truncate data
         ConsigneeCondition::truncate();
-        $z = ["DOMESTIC", "EXPORT", "NESC", "ICAM"];
+        $z = ["-", "A", "B", "T"];
         foreach ($z as $i) {
             $this->command->info($i);
             // foreach ($data as $r) {
