@@ -59,10 +59,10 @@ class DatabaseSeeder extends Seeder
         // $this->call(CompanySeeder::class);
         // $this->call(RequestInformationTypeSeeder::class);
         // $this->call(ProfileSeeder::class);
-        $this->call(MasterDaySeeder::class);
+        // $this->call(MasterDaySeeder::class);
         // $this->call(ConditionGroupSeeder::class);
         // $this->call(ConsigneeSeeder::class);
-        // $this->call(ConsigneeConditionSeeder::class);
+        $this->call(ConsigneeConditionSeeder::class);
         Schema::enableForeignKeyConstraints();
     }
 }
