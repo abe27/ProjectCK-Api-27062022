@@ -3,6 +3,8 @@
 namespace Database\Seeders;
 
 use App\Models\ConsigneeCondition;
+use App\Models\Profile;
+use App\Models\User;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\Storage;
@@ -20,8 +22,11 @@ class ConsigneeConditionSeeder extends Seeder
         $data = json_decode($json);
         ### truncate data
         ConsigneeCondition::truncate();
-        foreach ($data as $i) {
-            $this->command->info($i->empcode);
+        foreach ($data as $r) {
+            $this->command->info($r->empcode);
+            $user = User::where('empcode', $r->empcode)->first();
+            $profile = Profile::where('user_id', $user->id)->first();
+            $this->command->info($profile->id);
             // foreach ($data as $r) {
             //     $obj = new ConsigneeCondition();
             //     $obj->consignee_id = "";
